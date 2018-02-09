@@ -1,0 +1,157 @@
+------------------------
+COMPAGNIES
+------------------------
+      5   Sangaris 
+      4  Roux 
+      3  Woolwich 
+      3  The 
+      3  BBC 
+      2  TSA 
+      2   The 
+      2  Séléka 
+      2   Séléka 
+      2   Peugeot 
+      2  New 
+      2   MS-13 
+      2   Morgan Tsvangirai 
+      2   Misca 
+      2   KESK 
+      2  Internet 
+      2   Dubaï 
+      2  Amnesty International 
+      2   Amnesty International 
+      1  Westgate 
+      1  Watertown 
+      1  Verts 
+      1   VÉHICULES INCENDIÉS_ET_BARRICADES_Le_Caire 
+      1  TWITTER 
+      1  Twitter 
+      1   Tunceli 
+      1   TTP 
+      1  Tsarnaev 
+      1   Tsarnaev 
+      1   Taylor 
+      1   Tamaulipas 
+      1   SkyTG24 
+      1   Skynews 
+      1  Sap 
+      1  RFI 
+      1   Renault 
+      1  RCA 
+      1   RCA 
+      1  Ras Lanouf 
+      1   Ramirez 
+      1  Rai 
+      1   Rachkov 
+      1  Rabiya 
+      1  QUITTER 
+      1   Quelles 
+      1   Que 
+      1   Pyongyang 
+      1   Puma 
+      1   PUBLIQUEMENT 
+      1   PTI 
+      1  PSA 
+      1   PK-5 
+      1   Parti-Front 
+      1   OUI 
+      1    ON_VA_EN_TUER_DIX 
+      1  Obama 
+      1   Obama 
+      1   OAS 
+      1   NON NÉCESSAIRES 
+      1  New York Times 
+      1  National 
+      1   Musudan 
+      1   Mullet 
+      1   Mouammar Kadhafi 
+      1   MONTI N'_A_PLUS_DE_CRÉDIBILITÉ 
+      1  Monti 
+      1   Mohammed 
+      1   Mohamed 
+      1   Moatassem 
+      1   MIT 
+      1  MISSILE 
+      1  Misca 
+      1   MIA 
+      1  Mercedes 
+      1   Madar 
+      1   Machad 
+      1   Lewthwaite 
+      1  Lashkar-e-Taïba 
+      1  Lahore 
+      1   Kwame 
+      1  Kim Il-sung 
+      1  Kim 
+      1   Khamenei 
+      1   Khadafi 
+      1  KESK 
+      1   Kesk 
+      1   Karachi 
+      1  Kabylie 
+      1  JUGEMENT 
+      1    JE_SUIS_AU-DELÀ_DU_BIEN_ET 
+      1   ITV 
+      1   I>Télé 
+      1  Iraq 
+      1   Internet 
+      1   Inspire 
+      1   HOMICIDES_LE_PLUS_ÉLEVÉ 
+      1   Hollande 
+      1   Hitler' 
+      1   Hariri 
+      1  Hanano 
+      1   Grand Central 
+      1   General 
+      1   Frontera 
+      1   François-Mitterrand 
+      1   FORCE_DE_MAINTIEN_DE_LA_PAIX 
+      1   FM 
+      1   Feya 
+      1  FER Multimillionnaire 
+      1   Fazullah 
+      1  Fazlullah 
+      1  Facebook 
+      1  Evian 
+      1  ETA 
+      1   El 
+      1  Editorial 
+      1   Dogus Holding 
+      1   Djamena 
+      1  Disney 
+      1  Dieu 
+      1   Dhaffane 
+      1  DÉRANGÉ LA COALITION DE CENTRE GAUCHE 
+      1   Der 
+      1    DE_DIALOGUE_ÉCHOUERA 
+      1   Combattant 
+      1  CNN-Türk 
+      1   CNN-Türk 
+      1  CNN 
+      1   Cinq 
+      1  Ciancia 
+      1   Ciancia 
+      1   Calik 
+      1  Bogoula 
+      1  Birmanie 
+      1   BENGHAZI 
+      1   Belmokhtar 
+      1  Bassora 
+      1   Azzedine 
+      1   Awami_National_Party 
+      1  Atatürk 
+      1   Ataka 
+      1  ARMES 
+      1   Arkan 
+      1  APD 
+      1  Ansar 
+      1  Anguel 
+      1   Anguel 
+      1  Anatolie 
+      1   Anatolie 
+      1   Al-Saadoun 
+      1  Al-Qaïda 
+      1  Al-Qaida 
+      1   ALEP_ET_HOMS 
+      1  Ahle 
+      1  ADEBOLAJO CONDAMNE 

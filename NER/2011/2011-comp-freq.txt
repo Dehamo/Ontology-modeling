@@ -1,0 +1,179 @@
+------------------------
+COMPAGNIES
+------------------------
+      7   Gbagbo 
+      6   Sima Samar 
+      6   Al-Qaida 
+      5  Ras Lanouf 
+      5   Ouattara 
+      4  Facebook 
+      4   Aliskhan 
+      3  OTAN 
+      3   ETA 
+      3   Anders 
+      3  Abobo 
+      2  Tottenham 
+      2   Sima 
+      2  Ras Jedir 
+      2  Memorial 
+      2  Iwojima 
+      2   Ingouchie 
+      2   Gazprom 
+      2  Gariane 
+      2   Cyrène 
+      2   Batyr 
+      2   Bachar 
+      2   Azzam 
+      2  AQMI 
+      2   Amr Moguch 
+      1   Zinaïda 
+      1   Zawiyah 
+      1   Zawahiri 
+      1   Zarqawi 
+      1  YouTube 
+      1   Xinuleaks 
+      1  Wembley 
+      1  Weiwei 
+      1  Utopia 
+      1  USS 
+      1  Urtuzaga 
+      1   UE 
+      1   Twitter 
+      1  Tunisien 
+      1   Tunis Afrique Presse 
+      1   Tripoli 
+      1  Transneft 
+      1  Touarga 
+      1   Time 
+      1   Teboursouk 
+      1   Tajoura 
+      1   Sumar 
+      1   Sourmane 
+      1   Skynews 
+      1    SE_POURSUIVENT 
+      1   Schneider-Legrand 
+      1   Sarkozy 
+      1  Sami H 
+      1   Saipan 
+      1   Saddam 
+      1   RPG 
+      1  RFI 
+      1   Renault 
+      1  Rawa 
+      1  Ras 
+      1  RAPIDES 
+      1  RAO EES 
+      1  PROIE 
+      1  Proche-Orient 
+      1  Oxford 
+      1   Outtara 
+      1    Oussama_Ben_Laden 
+      1   Oussama 
+      1  Ouattara 
+      1  Oslo 
+      1   Onuci 
+      1  ONG 
+      1  Okinawa 
+      1  New York Times 
+      1   Nefoussa 
+      1   Nazim 
+      1   Nagasaki 
+      1  Nabil G 
+      1   Moubarak 
+      1  Mouammar 
+      1  Mongia B 
+      1  Monastir 
+      1  Mohsen G 
+      1  Mohammed 
+      1   Misourata 
+      1   MGB 
+      1  Mercedes 
+      1   Memorial 
+      1   Medvedev 
+      1   Maskhoud 
+      1   Maria 
+      1   Makcharip 
+      1  Maher 
+      1  Magaly H 
+      1   Luiz 
+      1  Licorne 
+      1   Licorne 
+      1   Khamis 
+      1   Kasserine 
+      1  Karakosh 
+      1  KADHAFI 
+      1  Kadhafi 
+      1   Kadhafi 
+      1   Kadhafa 
+      1  Jouheimane Saïd 
+      1   Jamaïcains 
+      1   Ivan 
+      1  Interpol 
+      1   Internet 
+      1   ingouche_Iounous-Bek_Evkourov 
+      1  Hiroshima 
+      1   Hiroshima 
+      1   Hassem 
+      1  Hassaké 
+      1   Harmoush 
+      1  Hamas 
+      1  Hadj Hassan 
+      1  Groupe 
+      1   Grad 
+      1  General 
+      1   General 
+      1  Gbagbo 
+      1  Frontier Corps 
+      1   Fitch 
+      1   Fayard 
+      1  Fadhil 
+      1   Facebook 
+      1  ETA 
+      1   Essoug 
+      1  ENI 
+      1   Elsa 
+      1   éditions 
+      1   East Dulwich 
+      1   Dubaï 
+      1   DE SOUCHE 
+      1  Croix-Rouge 
+      1   Coptes 
+      1   Citizens for Democracy 
+      1   CHOQUÉS 
+      1  Chifa 
+      1   Chawkat 
+      1   Chahine 
+      1   Camden 
+      1  Caixin 
+      1  Bruegel 
+      1   Brega 
+      1   Bouchra 
+      1   BNA 
+      1  BFM TV 
+      1  Ben Laden 
+      1  BEN ALI 
+      1   BBC 
+      1  Batyr 
+      1   Batasuna 
+      1  Barak Obama 
+      1   Barack 
+      1  Banias 
+      1  Bab al-Aziziya 
+      1   Bab_al-Aziziya 
+      1   Aung 
+      1   Assad 
+      1  Asma 
+      1   Arabique 
+      1   Arabes 
+      1   AQPA 
+      1   AQMI 
+      1   Ankara 
+      1  Angelina P 
+      1   Alstom 
+      1  Al-Qaida 
+      1   Al-Jazira 
+      1   Ali 
+      1   Al-Assad 
+      1   Al-Arabiya 
+      1   Al-Arabia 
+      1  ABORD 

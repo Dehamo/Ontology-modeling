@@ -1,0 +1,1082 @@
+------------------------
+COMPAGNIES
+------------------------
+     54   EI 
+     36  EI 
+     22  CPI 
+     15   Sangaris 
+     15   Al-Qaida 
+     13  Facebook 
+     13  Al-Qaida 
+     12  BBC 
+     11  Amnesty 
+     11   Amnesty 
+      9   Obama 
+      8  Twitter 
+      8   Facebook 
+      8  Amnesty International 
+      7  Internet 
+      7   Gbagbo 
+      7  EIIL 
+      7   Douch 
+      7  CNN 
+      6  The 
+      6   The 
+      6   Sima Samar 
+      6  Sangaris 
+      6  Ras Lanouf 
+      6  LRA 
+      6  Donetsk 
+      6  DDS 
+      6  AQMI 
+      5   TTP 
+      5   Tsahal 
+      5   Romney 
+      5   Philip 
+      5   Ouattara 
+      5  ONG 
+      5  Mercedes 
+      5   Habré 
+      5   Barkhane 
+      5   Al-Nosra 
+      4  Westgate 
+      4   Twitter 
+      4   Tahrir 
+      4   SS 
+      4  Roux 
+      4  RDC 
+      4   Rabin 
+      4   Poutine 
+      4  New York Times 
+      4   Internet 
+      4   International 
+      4   ETA 
+      4   Donetsk 
+      4   Dieu 
+      4   Cinq 
+      4  Chabab 
+      4   AQPA 
+      4  Al-Nosra 
+      4   Aliskhan 
+      4   Al-Aqsa 
+      4  AKP 
+      4  AGK 
+      3   Zawahiri 
+      3  Woolwich 
+      3   Taguir 
+      3   Stock 
+      3  Starbucks 
+      3   Semmama 
+      3  Séléka 
+      3   Séléka 
+      3  RFI 
+      3  OTAN 
+      3   Mullet 
+      3  Misca 
+      3   Misca 
+      3  MHP 
+      3  Maré 
+      3   Mandela 
+      3  Louhansk 
+      3   Khamenei 
+      3   Kadhafi 
+      3   Ingouchie 
+      3  Habré 
+      3   Ennahda 
+      3   Dubaï 
+      3  Chibok 
+      3   Boko 
+      3   Bizot 
+      3   Baga 
+      3   Bacongo 
+      3   Bachar 
+      3   AQMI 
+      3   Anders 
+      3   Al-Furqan 
+      3   Al-Chabab 
+      3   Adamawa 
+      3   Aboubakar 
+      3  Abobo 
+      2  Zaventem 
+      2   Wimtin 
+      2   UA 
+      2  Tsarnaev 
+      2  TSA 
+      2  Tottenham 
+      2   Time 
+      2   Skynews 
+      2   Sima 
+      2   Schengen 
+      2  Sana 
+      2  Sambisa 
+      2   Sahwat 
+      2  Sahamnews 
+      2  Rolls-Royce 
+      2   Reuters 
+      2   Renault 
+      2   RCA 
+      2  Ras Jedir 
+      2   Raçak 
+      2   Pyongyang 
+      2   Peugeot 
+      2  Palestine 
+      2  Palasset 
+      2   Oumar 
+      2   OSCE 
+      2  Orange 
+      2   ONG 
+      2   Omar 
+      2  Olympia 
+      2   OCI 
+      2   Ntumi 
+      2  Nord-Est 
+      2  New 
+      2   National_Rifle_Association 
+      2   Nathaniel 
+      2   Najaf 
+      2  MSF 
+      2   MSF 
+      2   MS-13 
+      2   Moubarak 
+      2   Mouammar Kadhafi 
+      2   Morgan Tsvangirai 
+      2  Morgan 
+      2   Molotov 
+      2   Mohammed 
+      2   MNLA 
+      2  Minawao 
+      2   Merkel 
+      2  Memorial 
+      2   Massoud 
+      2   Liz 
+      2   LGBT 
+      2   Lehava 
+      2   Laurent-Désiré 
+      2  Lashkar-e-Taïba 
+      2  Kolofata 
+      2   KMT 
+      2   Kharkiv 
+      2   KESK 
+      2   Kabila 
+      2   Jama’ 
+      2   Jacob 
+      2   Iza 
+      2  Iwojima 
+      2   Ilias 
+      2   HCR 
+      2   Hathem 
+      2  Hamas 
+      2   Grad 
+      2  General 
+      2   General 
+      2   Gazprom 
+      2  Gaza 
+      2  Gariane 
+      2   Floride 
+      2   Fazlullah 
+      2   Fadi 
+      2  ETA 
+      2   Erdogan 
+      2   EIIL 
+      2   Duvalier 
+      2  Dubaï 
+      2  Drancy 
+      2   Donbass 
+      2   Diffa 
+      2   Désiré 
+      2   Da' ech 
+      2   Cyrène 
+      2  CVR Energy 
+      2   Congo 
+      2   CEDH 
+      2   CBS 
+      2   Bring 
+      2  Borno 
+      2  Boko 
+      2  Birmanie 
+      2  Beni 
+      2   Belmokhtar 
+      2   Batyr 
+      2   Barack 
+      2   Azzam 
+      2  Atatürk 
+      2   ASL 
+      2   Arabique 
+      2  AP 
+      2   Ansaru 
+      2   Anatolie 
+      2   Amr Moguch 
+      2   Amnesty International 
+      2   Alstom 
+      2   Al-Assad 
+      2   Air 
+      2   AIEA 
+      2   Abdirashid 
+      2   Abdallah 
+      2  Abbottabad 
+      1  Zoé 
+      1  Zinder 
+      1   Zinaïda 
+      1   Zénobie 
+      1   Zawiyah 
+      1  Zawahiri 
+      1   Zarqawi 
+      1   Zaghawa 
+      1  Yves Duteil 
+      1  YouTube 
+      1   YouTube 
+      1  Youtube 
+      1   Youssef 
+      1   Younoussa 
+      1   Yesh Atid 
+      1   Yéhia-Ayache 
+      1   Yalda 
+      1   Yafoda 
+      1   Xinuleaks 
+      1  Xinhua 
+      1   Xinhua 
+      1  Wilaya 
+      1  Wembley 
+      1  Weiwei 
+      1  Weibo 
+      1  Watertown 
+      1   VPRC 
+      1   Vostok 
+      1   Virgin 
+      1  Verts 
+      1  Versailles 
+      1   Vérité 
+      1   VÉHICULES INCENDIÉS_ET_BARRICADES_Le_Caire 
+      1   Vassili Iakemenko 
+      1  Vanduzi 
+      1   Valls 
+      1  Utopia 
+      1    UTILISER_LA_FORCE 
+      1   UTHR 
+      1  USS Mesa Verde 
+      1   USS Mesa Verde 
+      1  USS 
+      1   USS 
+      1  Urtuzaga 
+      1  UPP 
+      1  UPC 
+      1   UPC 
+      1  Union européenne-Afrique 
+      1   UNC 
+      1  Umarari 
+      1   Umar 
+      1   UE 
+      1  UCK 
+      1  TWITTER 
+      1   Turcs 
+      1   Tupak Shakur 
+      1  Tunisien 
+      1   Tunis Afrique Presse 
+      1   Tungstène 
+      1   Tunceli 
+      1   Tuesday 
+      1   Tuer 
+      1   TTP-Islamabad 
+      1  TTP 
+      1   Tshisekedi 
+      1   Tsarnaev 
+      1   Tripoli 
+      1  Trapeang 
+      1  Transneft 
+      1  Touarga 
+      1  Toile 
+      1   Timbuktu 
+      1  Tikrit 
+      1   Tikrit 
+      1  Tidjaniya 
+      1  Thomson 
+      1   The Guardian 
+      1   Terreur 
+      1   Tentacule 
+      1   Televisa 
+      1   Teboursouk 
+      1   Tchétchène 
+      1   Taylor 
+      1   Tawhid 
+      1   Tass 
+      1   Tamaulipas 
+      1   Tajoura 
+      1   T-72 
+      1   T 
+      1   Szczecin 
+      1   Syrian 
+      1   Synpics 
+      1  SVT 
+      1   Survie 
+      1   Sumar 
+      1  Sukarri 
+      1   Strelkov 
+      1  Stock 
+      1   Stéphane Dujarric 
+      1   Stéphane Corcuff 
+      1   Stéphane Albouy 
+      1   Steinkis 
+      1   Stef’ 
+      1   Starbucks 
+      1  SSP 
+      1  SS 
+      1   Special 
+      1   SPD 
+      1   Sourmane 
+      1   Soubresaut 
+      1  Sotchi 
+      1   Sotchi 
+      1  SOS Méditerranée 
+      1   Songhaï 
+      1   Sokola 
+      1   Sokimo 
+      1  SMS 
+      1   SkyTG24 
+      1  Skype 
+      1   Sir 
+      1  Sipri 
+      1   Sipah-e-Sahaba Pakistan 
+      1   SIONISTE EXTRÊME 
+      1   Sinon 
+      1   Sinica 
+      1   Sinaloa 
+      1   Simon-Wiesenthal 
+      1  Sikrikim 
+      1   Sicilia 
+      1   Shwedagon 
+      1   Shirel 
+      1   SHÉRIF_ET_LE_GOUROU 
+      1  Shekau 
+      1  Shehata 
+      1   Shehata 
+      1   Shalit 
+      1  Shabunda 
+      1    SE_POURSUIVENT 
+      1   Selahattin Demirtas 
+      1   Scud-B 
+      1  SCM 
+      1   Schneider-Legrand 
+      1  Sassou-Nguesso 
+      1   Sassou-Nguesso 
+      1  SAS 
+      1   Sarkozy 
+      1   Sarah 
+      1  Sap 
+      1   Sanusi 
+      1   Santhonax 
+      1   Sanary 
+      1  Sami H 
+      1   Salman 
+      1  Salak 
+      1   Saipan 
+      1   Saint 
+      1   Saddam 
+      1   Sabra 
+      1   Ryad-us-Salihin 
+      1   Russia 
+      1   RUF 
+      1   RPG 
+      1   Rosarno 
+      1   Roos 
+      1   RJR Nabisco 
+      1   Ricardo 
+      1  RIA 
+      1  Revolutionary 
+      1  Renault 
+      1   Reinaldo 
+      1    Regardez_là-haut 
+      1   Regardez 
+      1   RDC 
+      1  RCA 
+      1  Rawa 
+      1   Rastane 
+      1   Rasoul 
+      1  Ras 
+      1  RAPIDES 
+      1  RAO EES 
+      1   Randgold Resources 
+      1   Ramirez 
+      1   Rakka 
+      1  Rai 
+      1   Rafiatu 
+      1   Radisson 
+      1  Radio 
+      1   Rachkov 
+      1  Rabiya 
+      1  QUITTER 
+      1    QUI_DONC_VA_LES_EN_EMPÊCHER 
+      1   Quelles 
+      1   Que 
+      1  Qalandia 
+      1  Qabatiya 
+      1   Pyonyang 
+      1  Pune 
+      1   Puma 
+      1   Pulse 
+      1   Puis 
+      1   PUBLIQUEMENT 
+      1   PTI 
+      1  PSA 
+      1   Provea 
+      1  PROIE 
+      1  Proche-Orient 
+      1   PRD 
+      1  Pravyi Sektor 
+      1   Pov 
+      1   Poursuivez 
+      1   Populaire 
+      1   PKK 
+      1   PK-5 
+      1  Piscine 
+      1   Pinochet 
+      1  Peuls 
+      1   Pennsylvanie 
+      1   Pedro 
+      1  PDP 
+      1   Patimat 
+      1   Parti-Front 
+      1   Paris-Miami 
+      1   Par 
+      1   Palestiniens 
+      1   Palacios 
+      1  Paix 
+      1   Paix 
+      1   Oxitec 
+      1  Oxford 
+      1   OVP 
+      1   Outtara 
+      1    Oussama_Ben_Laden 
+      1   Oussama 
+      1  Ousman 
+      1   OUI 
+      1   Oudar 
+      1  Ouattara 
+      1   Ouardia 
+      1  Oslo 
+      1  OSDH 
+      1  OSCE 
+      1  Ormuz 
+      1   Orange_Democratic_Movement 
+      1    ON_VA_EN_TUER_DIX 
+      1   Onuci 
+      1   ONG Tamazgha 
+      1  ONG Enough Project 
+      1  Omate 
+      1   Olympia 
+      1   Oliver 
+      1  Okwui 
+      1  Okinawa 
+      1  Okba 
+      1  OJSC Northern Caucasus 
+      1   Oberoi 
+      1  Obama 
+      1   OAS 
+      1  NTV 
+      1   NTV 
+      1   NSC 
+      1  Northwest 
+      1   Noria 
+      1   Nord-Sud 
+      1   NON NÉCESSAIRES 
+      1   Nissan Slomiansky 
+      1  Ninive 
+      1   Ninive 
+      1   Nimroud 
+      1   Nilgun 
+      1  Nigerian 
+      1   Ngadi 
+      1  Nexos 
+      1   Nexos 
+      1   Nétanyahou 
+      1  Netanya 
+      1   NEMA 
+      1   Nefoussa 
+      1  NBC 
+      1  Nazran 
+      1   Nazim 
+      1  Nature biotechnology 
+      1   National_Patriotic_Front_of_Liberia 
+      1   National_Journal 
+      1  National 
+      1  Nathaniel 
+      1   Najeeb 
+      1   Nagasaki 
+      1  Nabil G 
+      1   NAACP 
+      1   Musudan 
+      1   Musgum 
+      1  Multiple 
+      1  MSF Mégo Terzian 
+      1   MPA 
+      1  Moubarak 
+      1  Mouammar 
+      1   Motorola 
+      1  Mossa 
+      1   Mosfilm 
+      1  Moscow 
+      1  MORT 
+      1   Morgan 
+      1  Moody' 
+      1   Moody' 
+      1   Monusco 
+      1   MONTI N'_A_PLUS_DE_CRÉDIBILITÉ 
+      1  Monti 
+      1  Montclos 
+      1   Montaigne 
+      1  Monguno 
+      1  Mongia B 
+      1  Monastir 
+      1   Molenbeek 
+      1   Moi 
+      1  Mohsen G 
+      1  Mohammed 
+      1   Mohamed 
+      1   Moatassem 
+      1   MNA 
+      1   Mladic 
+      1   Mitterrand-Balladur 
+      1   MIT 
+      1   Missing 
+      1  MISSILE 
+      1   Misourata 
+      1   Mining 
+      1   Minader 
+      1   Milosevic 
+      1   MIA 
+      1   MHP 
+      1   MGB 
+      1   Métaux 
+      1  Metalist 
+      1   Memorial 
+      1  Meissonier 
+      1   Medvedev 
+      1   Me 
+      1   Mazouna 
+      1   Mayanga 
+      1   Maskhoud 
+      1  Mashable 
+      1   Masalit 
+      1  Marjah 
+      1   Mariam 
+      1   Maria 
+      1  Marfin 
+      1   Maré 
+      1  Mara Barrio 
+      1  Mandela 
+      1   Mandara 
+      1  Malines 
+      1   Maliki 
+      1  Maliens 
+      1  Malaysian Airlines 
+      1  Malaysian 
+      1  Malaysia Airlines 
+      1   Makcharip 
+      1  Maison-Blanche 
+      1  Maïduguri 
+      1   Maïdan 
+      1  Mahomet 
+      1  Maher 
+      1  Magaly H 
+      1   Madar 
+      1   Macy' 
+      1   Machar 
+      1   Machad 
+      1   Luiz 
+      1   Lougansk 
+      1   Lord' 
+      1   LIEU DE 
+      1  Licorne 
+      1   Licorne 
+      1   Lewthwaite 
+      1   Leadership 
+      1  Lassana 
+      1  Lashkar-e-Taiba 
+      1  Lakouanga 
+      1  Lahore 
+      1   Là-haut 
+      1  Lagare 
+      1  Kywe 
+      1   Kwame 
+      1   Kursunlu 
+      1  Kurdistan 
+      1   Kurdes 
+      1  Kobané 
+      1   Kobané 
+      1  Knesset 
+      1   Kirghiz 
+      1    Kim_Jong-un_– 
+      1  Kim Il-sung 
+      1  Kim 
+      1  Kikuyu 
+      1   Kibaki 
+      1   Ki 
+      1   Khamis 
+      1  Khadija 
+      1   Khadafi 
+      1  KG Productions 
+      1   KFC 
+      1  KESK 
+      1   Kesk 
+      1   Kerry-Lavrov 
+      1   Kerbala 
+      1   Kehilat-Yaakov 
+      1   Kefraya 
+      1   Kasserine 
+      1  Kash 
+      1  Karuna 
+      1  Karakosh 
+      1   Karachi 
+      1  Kanombé 
+      1  Kandahar 
+      1   Kandahar 
+      1   Kagamé 
+      1  Kadyrov 
+      1  KADHAFI 
+      1  Kadhafi 
+      1   Kadhafa 
+      1  Kabylie 
+      1  Jyllands-Posten 
+      1  JUGEMENT 
+      1   Juana 
+      1  JTF 
+      1   JPEG 
+      1  Jouheimane Saïd 
+      1  Jobar 
+      1    Jisr_al-Choughour 
+      1    JE_SUIS_RESPONSABLE_ÉMOTIONNELLEMENT_ET_LÉGALEMENT 
+      1    JE_SUIS_AU-DELÀ_DU_BIEN_ET 
+      1   Javanais 
+      1   Jamaïcains 
+      1   Jabaliya 
+      1   Jababra 
+      1   Izioum 
+      1  Iza 
+      1   Ivanovo 
+      1   Ivan 
+      1   ITV 
+      1   Itisam 
+      1   I>Télé 
+      1  Istiqlal 
+      1   Istiklal 
+      1   Islamic 
+      1  Islam 
+      1  ISIS 
+      1  Ishinomaki 
+      1  ISAF 
+      1  Iraq 
+      1   Iraniens 
+      1  Irakiens 
+      1  Irakien Abou Bakr Al-Baghdadi 
+      1  Intifada 
+      1   Intifada 
+      1  Inter-Services Intelligence 
+      1  Interpol 
+      1  Institute 
+      1   Instagram 
+      1   Inspire 
+      1   ingouche_Iounous-Bek_Evkourov 
+      1   INGC 
+      1   Ine 
+      1   Imperial 
+      1   Illinois 
+      1  Igor Loutsenko 
+      1   Igor 
+      1   Idris I 
+      1   IDC 
+      1   Ibuka 
+      1   Ianoukovitch 
+      1   Husn 
+      1   Huit 
+      1  Hugo 
+      1   Horrible 
+      1   HOMICIDES_LE_PLUS_ÉLEVÉ 
+      1   Hollande 
+      1   Hitler' 
+      1  Hissène Habré 
+      1   Hissène Habré 
+      1   Hissène 
+      1  Hiroshima 
+      1   Hiroshima 
+      1   Hicham 
+      1  Hélène 
+      1  Hattatba 
+      1   Hassem 
+      1   Hassan al-Ramoudi 
+      1  Hassaké 
+      1   Haryana 
+      1   Harmoush 
+      1   Hariri 
+      1   Harakat_Al-Chabab_Al-Moudjahidin 
+      1   Haqqani 
+      1  Hanano 
+      1  Hadj Hassan 
+      1   Hadi 
+      1   Habyarimana 
+      1  Haaretz 
+      1   Haaretz 
+      1   Gyöngyöspata 
+      1  Gwoza 
+      1   Guilané 
+      1   Guerreros 
+      1  Groupe 
+      1  GromTV 
+      1   Grand Central 
+      1   Goukouni Oueddeï 
+      1  Gorongosa 
+      1   Goodluck 
+      1   Gold 
+      1   Godane 
+      1  Global 
+      1   Gilad 
+      1  Ghilas 
+      1   Ghauri 
+      1   Georges-Haddad 
+      1  Gécamines 
+      1  Gbagbo 
+      1  Gazprom 
+      1  Gazavat 
+      1   Gallimard 
+      1   FRPI 
+      1  Frontier Corps 
+      1   Frontera 
+      1  Front Al-Nosra 
+      1  Frelimo 
+      1   Freire 
+      1   François-Mitterrand 
+      1  Fotokol 
+      1  Forpronu 
+      1   FORCE_DE_MAINTIEN_DE_LA_PAIX 
+      1  Forbes 
+      1   Forbes 
+      1   FM 
+      1  Floride 
+      1  Flames 
+      1   Flamands 
+      1   Fitch 
+      1   Fischer-Brunner 
+      1   FIDH 
+      1   Fides 
+      1   Feya 
+      1  FETO 
+      1  FER Multimillionnaire 
+      1   FDS 
+      1  FC Ouakam 
+      1   Fazullah 
+      1  Fazlullah 
+      1   Fayard 
+      1  Faure 
+      1   Fata 
+      1  Farchana 
+      1   Faradje 
+      1  Fadhil 
+      1  Ezigeguro 
+      1   Expo 
+      1  Evian 
+      1   European 
+      1   EuroMaïdan SOS 
+      1   Essoug 
+      1   ESL 
+      1  Eschyle 
+      1   Erbil 
+      1  Epervier 
+      1   Epervier 
+      1  En-Nahar TV 
+      1   En-Nahar TV 
+      1   En-Nahar 
+      1  ENI 
+      1   Ender 
+      1   Emanuel 
+      1   Elsa 
+      1   El Manar I 
+      1  Ellen 
+      1   Ellen 
+      1  Elisabeth 
+      1  El Chapo 
+      1   El 
+      1  EIL 
+      1   Eiffel 
+      1   Eichmann 
+      1   EI Al-Baghdadi 
+      1  Editorial 
+      1   Editorial 
+      1   éditions 
+      1   Eddine-Sud 
+      1   Ecidé 
+      1   East Dulwich 
+      1  Duterte 
+      1   Duale 
+      1   Dreyfus Corp 
+      1   Dragunov 
+      1   Doudaev 
+      1  Donbass Arena 
+      1  Donbass 
+      1   Dogus Holding 
+      1   Djokhar Tsarnaev 
+      1   Djokhar 
+      1  Djedda 
+      1   Djamena 
+      1  Diyarbakir 
+      1   Diyarbakir 
+      1  Diyala 
+      1  Disney 
+      1   Dilem 
+      1  Dieu 
+      1  Dhlakama 
+      1   Dhaffane 
+      1   DE SOUCHE 
+      1  DES INSTALLATIONS 
+      1  DÉRANGÉ LA COALITION DE CENTRE GAUCHE 
+      1   Der 
+      1   DE NOUVEAU CONVOQUÉE 
+      1    DE_MON_ÉGLISE 
+      1  Deir ez-Zor 
+      1    DE_DIALOGUE_ÉCHOUERA 
+      1    DE_DEUIL_ET_DE_COLÈRE 
+      1   Deborah 
+      1   DEA 
+      1   DC-Cam 
+      1  Davidson 
+      1   Darfur' s Sorrow 
+      1   Dan Pfeiffer 
+      1  Dan Gertler 
+      1  Damaturu 
+      1  Dahabshiil 
+      1   Dahabshiil 
+      1  Daech 
+      1   Dabiq 
+      1   D 
+      1  Cumhuriyet 
+      1  Cruz 
+      1  Croix-Rouge 
+      1   Crispr 
+      1   CPI 
+      1  Coulibaly 
+      1   Coptes 
+      1   Condor 
+      1   Concepcion 
+      1   Combattant 
+      1   Columbia 
+      1  CNRDRE 
+      1   CNRDRE 
+      1  CNN-Türk 
+      1   CNN-Türk 
+      1   CNN 
+      1   CNDD-FDD 
+      1   Citoyenneté 
+      1   Citizens for Democracy 
+      1   CICR 
+      1  Ciancia 
+      1   Ciancia 
+      1  Chugoku Shimbun 
+      1   CHP 
+      1   CHOQUÉS 
+      1  Chifa 
+      1   Chawkat 
+      1   Chatila 
+      1   Charb 
+      1   Chahine 
+      1  CEP 
+      1   CEP 
+      1  Center 
+      1  CENT 
+      1   Celeste 
+      1  CBS 
+      1  Caucasiens 
+      1  Castillo 
+      1  Cartooning 
+      1   Carl 
+      1   Can Erzincan TV 
+      1  CAN 
+      1   CAMPAGNE DE TERREUR 
+      1   Camden 
+      1    Call_of_Duty 
+      1   Call 
+      1   Calik 
+      1  Caixin 
+      1  Caisse 
+      1   CAE 
+      1   C’ 
+      1  Buzzfeed 
+      1   Burkina 
+      1  Bulobarde 
+      1  Buhari 
+      1   Buhari 
+      1   BSIR 
+      1   Brunner 
+      1  Bruegel 
+      1   Brink 
+      1   Brega 
+      1   Bravo 
+      1   Brasil 
+      1   Bouterse 
+      1   Bouteflika 
+      1  Boulatov 
+      1   Bouchra 
+      1   Bouar-Garoua-Boulaï 
+      1  Bosso 
+      1  Bombay 
+      1  Bolloré 
+      1  Boko Haram 
+      1  Bogoula 
+      1   Boali 
+      1   BNA 
+      1  Black 
+      1   Black 
+      1   Bitoé 
+      1  Birwajli 
+      1   Birmanie 
+      1   BIR 
+      1   Biobio 
+      1  Billiton 
+      1  Bild 
+      1   Bild 
+      1  Bilal 
+      1   Biden 
+      1  BFM TV 
+      1   Berlaymont 
+      1   Bergholz 
+      1   Benz-vi 
+      1   Beny 
+      1  Ben Laden 
+      1   BENGHAZI 
+      1  BEN ALI 
+      1   Bemba 
+      1   Belga 
+      1   Beitullah Mehsud 
+      1   Beaucoup 
+      1   BDS 
+      1   BBC 
+      1  Batyr 
+      1   Batkivchtchina 
+      1   Batasuna 
+      1  Bastia 
+      1  Bassora 
+      1   Barthes 
+      1  Barkhane 
+      1   Barclays 
+      1  Barak Obama 
+      1   Banro 
+      1   Bank_of_Jerusalem 
+      1  Banias 
+      1   Bambi 
+      1   Balakhani 
+      1   Bakrie 
+      1   Badeh 
+      1  Bachika 
+      1   Baby 
+      1  Bab al-Aziziya 
+      1   Bab_al-Aziziya 
+      1   Azzedine 
+      1   Awami_National_Party 
+      1   Aventurier 
+      1   Aung 
+      1   Atticus 
+      1   Attaque 
+      1  ATT 
+      1   ATT 
+      1   Ataka 
+      1   Astra 
+      1  Assali 
+      1   Assad 
+      1   Assaad 
+      1  Asma 
+      1  ASL 
+      1   Asiathèque 
+      1  ARMES 
+      1   Arkhyz 
+      1   Arkan 
+      1   Aristide 
+      1  Areva 
+      1   ARDR 
+      1   Arabes 
+      1   AR-15 
+      1   Aquarius 
+      1   APS 
+      1   Aprodh 
+      1   AP Photo_/_Dmitry_Lovetsky 
+      1   Apec 
+      1  APD 
+      1  APC 
+      1  AOAV 
+      1   Anvar 
+      1    Ansar_Beït_Al-Maqdis 
+      1   Ansar Al-Charia 
+      1    Ansar_al-Charia 
+      1  Ansar 
+      1   Anopheles 
+      1   Ankara 
+      1  Anguel 
+      1   Anguel 
+      1  AngloGold Ashanti 
+      1  Angelina P 
+      1   Angeles 
+      1  Anatolie 
+      1   Anakaza 
+      1   AMISOM 
+      1   Amisom 
+      1   Amisi 
+      1  Américano-Libériens 
+      1  Amazonie 
+      1  Al Zahra 
+      1   Al-Walid 
+      1   Alsacien 
+      1   Al-Saadoun 
+      1   Al-Raoudh 
+      1  Al-Qaïda 
+      1  Al-Qaëm 
+      1   Al-Nimr 
+      1   Al-Nakchabandi 
+      1  Al-Mourabitoune 
+      1   Al-Mourabitoune 
+      1   Al-Mourabitoun 
+      1   Al-Manar 
+      1   Al-Maliki 
+      1   Al-Jolani 
+      1  Al-Jazira 
+      1   Al-Jazira 
+      1   Ali 
+      1  Algérien 
+      1   ALEP_ET_HOMS 
+      1  Al-Daoula 
+      1   Al-Chaar 
+      1   Al-Bayan 
+      1   Al-Baghdadi 
+      1   Al-Azhar 
+      1   Al-Arabiya 
+      1   Al-Arabia 
+      1  Al-Aqsa 
+      1   Al-Anbar 
+      1   Alan 
+      1  Al-Akhbar 
+      1   Akrad 
+      1  Akko 
+      1  Ajnad Al-Khilafah 
+      1  Ahrar Ul-Hind 
+      1    Ahrar_Al-Cham_n’ 
+      1   Ahmadzaï 
+      1  Ahle 
+      1   AGK 
+      1  Agatha 
+      1  Africains 
+      1   AFD 
+      1   AfD 
+      1  ADN 
+      1   Adja 
+      1   ADF 
+      1   Adedy 
+      1  ADEBOLAJO CONDAMNE 
+      1  Adamawa 
+      1   Abu Diz 
+      1    ABSURDE_DE_LES_LIBÉRER_IMMÉDIATEMENT 
+      1   Abou_Bakr_Al-Baghdadi_n’ 
+      1  ABORD 
+      1   Abel 
+      1   Abdullah 
+      1   Abdiasis 
+      1   Abd-El-Kader 
+      1  Abdelkader 
+      1  Abdallah 
+      1  ABC 
+      1     
+      1    
+      1   

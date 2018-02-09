@@ -1,0 +1,318 @@
+------------------------
+PERSONNES
+------------------------
+     13  Bachar Al-Assad 
+      9  Ben Laden 
+      8   Romney 
+      7   Chavez 
+      7   Charles Taylor 
+      7   Ben Laden 
+      6   Sam Mullet 
+      5  Sam Mullet 
+      5   Joseph Kabila 
+      5  Barack Obama 
+      5   Alain Juppé 
+      4  Phnom Penh 
+      4   Oussama Ben Laden 
+      4  Kok Sang 
+      4   Hugo Chavez 
+      4   Hillary Clinton 
+      4   Clinton 
+      4   Bachar Al-Assad 
+      3   Yara Sallam 
+      3   Valérie Niquet 
+      3   Taylor 
+      3   Sergio Gonzalez Rodriguez 
+      3  Pol Pot 
+      3  Oussama Ben Laden 
+      3   Michael A 
+      3  Lee Teng-hui 
+      3  Joseph Kabila 
+      3   Javier Sicilia 
+      3   Fabricio Mejia 
+      3   Enrique Krauze 
+      3   Carlos Fuentes 
+      3  Beit Shemesh 
+      3   Barack Obama 
+      3  Ariel Sharon 
+      3    Amadou_Toumani_Touré 
+      3   Albert Yuma Mulimbi 
+      2   W 
+      2   Varela 
+      2   Uzcategui 
+      2   Tsai Ing-wen 
+      2   Thein Sein 
+      2  Tchang Kaï-chek 
+      2   Seth Anziska 
+      2   Sarkozy 
+      2   Roger Bartra 
+      2   Obama 
+      2  Nicolas Sarkozy 
+      2   Nicolas Sarkozy 
+      2   Natasha Smith 
+      2   Nadejda Tolokonnikova 
+      2   Morris Draper 
+      2  Mohammed Al-Dabi 
+      2   Mitt Romney 
+      2  Mea Shearim 
+      2   Mahmoud Ahmadinejad 
+      2   Lorenzo Meyer 
+      2   Kong Phally 
+      2  Khla Khnom 
+      2   Khin Nyunt 
+      2   Joseph Kony 
+      2   John Brennan 
+      2   Henrique Capriles 
+      2   Hector Aguilar Camin 
+      2   Hafez Al-Assad 
+      2   Guillaume Landry 
+      2   George W 
+      2   Diouf 
+      2   Candy Crowley 
+      2   Bush 
+      2   Assad 
+      2   Ariel Sharon 
+      1   Yuval Steinitz 
+      1  Yoshihiko Noda 
+      1   Yoko Ono 
+      1  YNet News 
+      1   Yediot Aharonot 
+      1   Yamina Benguigui 
+      1   Vladimir Poutine 
+      1   Victoria Nuland 
+      1   Vicente Fox 
+      1   Touareg/NC 
+      1   Tom Roeurn 
+      1   Tom Collins 
+      1   Thomas J 
+      1   Théng Kun 
+      1   Than Shwe 
+      1  Tchang Kai-chek 
+      1   Tatiana Lokchina 
+      1  Stanley Kubrick 
+      1   Sophie Nivelle Cardinale 
+      1  Sohaib Athar 
+      1  Slobodan Milosevic 
+      1   Slobodan Milosevic 
+      1   Shimon Pérès 
+      1   Shimon Peres 
+      1   Sharon Gat 
+      1   Services/NC 
+      1   Rosalba Benitez 
+      1  Ronald Reagan 
+      1   Ronald Reagan 
+      1   Robert Mood 
+      1  Richard Lussick 
+      1   Richard Lussick 
+      1   Riad Al-Assaad 
+      1   Reagan 
+      1   Raymond Davis 
+      1   Ramzan Kadyrov 
+      1   Rami Abdel Rahmane 
+      1   Rafael Uzcategui 
+      1   Qin Gang 
+      1   Qasr Al-Nil 
+      1  Pussy Riot 
+      1   Pussy Riot 
+      1  Pussy/NC 
+      1  Prak Turmong 
+      1   Prado 
+      1   Pov Chum 
+      1   Poutine 
+      1   PLACE TAHRIR 
+      1   Pierre Péan 
+      1   Phnom Kulen 
+      1   Peres 
+      1   Paul Leduc 
+      1  Paul Kagamé 
+      1   Paul Kagamé 
+      1  Patrick Seale 
+      1   Paco Ignacio Taibo/NC II/ADJ 
+      1   Ould Meidou 
+      1  Omar Al-Bachir 
+      1  Olivier 
+      1   Octavio Paz 
+      1    Obama-Romney_Voici 
+      1   Nyan Win 
+      1   Nétanyahou 
+      1   Nelson Kgwete 
+      1  Natasha Smith 
+      1   Nahar Aïcha 
+      1   Nabil Al-Arabi 
+      1  Naama/NC 
+      1   Naama Margolis 
+      1   Myron Miller 
+      1  Mouammar Kadhafi 
+      1   Mouammar Kadhafi 
+      1   Mossa Ag Attaher 
+      1   Morris/NC 
+      1   Montauban 
+      1   Mohammed Abdelmaoula Al-Hariri 
+      1   Mohamed Ag Najim 
+      1  Mitt Romney 
+      1   Min Ko Naing 
+      1   Miller 
+      1   Mike Mullen 
+      1   Michel Braun 
+      1   Menahem Begin 
+      1   Melissa Bassi 
+      1  MÉLISSA 
+      1   Medvedev 
+      1  Marta Lamas 
+      1   Marta Lamas 
+      1  Mark Toner 
+      1   Mario Monti 
+      1  Marc Trévidic 
+      1   Marc Trévidic 
+      1  Marcel Lemonde 
+      1   Mahé 
+      1  Lon Nol 
+      1  Libération 
+      1   Lemonde 
+      1   Lee Teng-hui 
+      1  Lawrence Eagleburger 
+      1   Lavrov 
+      1  Laurent Gbagbo 
+      1  Las Vegas 
+      1   Lars Olsen 
+      1   Lara Logan 
+      1  Kong Phally 
+      1  Kofi Annan 
+      1  Kim Il-sung 
+      1   Khieu Kanharith 
+      1   Kerstin Kasyenholz 
+      1   Kerry Ladka 
+      1  Kar Savuth 
+      1   Kabila 
+      1   John O 
+      1   John McCain 
+      1   Joe Biden 
+      1   Joe Becker 
+      1  Jeremy Keenan 
+      1   Jean-Pierre Filiu 
+      1  Jean-Pierre Bemba 
+      1   Jay Carney 
+      1   Iris Varela 
+      1   Imtiaz Gul 
+      1   Ignace Leverrier 
+      1  Ibrahim Rugova 
+      1   Ibrahim Rugova 
+      1  Ibrahim Ag Bahanga 
+      1   Humberto Prado 
+      1  Hugo Chavez 
+      1  Hillary Clinton 
+      1   Henrique Capriles Radonski 
+      1  Hasan Askari 
+      1  Hama Trente 
+      1   Hama Sig Ahmed 
+      1  Hamad 
+      1   Halimé Mahamat 
+      1  Hafez Al-Assad 
+      1   Habyarimana 
+      1  Guzman Salazar 
+      1   Guzman Salazar 
+      1  Gush Etzion 
+      1   Gueorgui Kounadzé 
+      1   Guennadi Gatilov 
+      1  Goshen College 
+      1   Gilbert Dao 
+      1   Geronimo EKIA 
+      1  George W 
+      1   George Shultz 
+      1   Fred Abdalla 
+      1  François Roux 
+      1  François Hollande 
+      1   Foreign Policy 
+      1  Floribert Chebeya 
+      1  Florence Aubenas 
+      1   Felipe Calderon 
+      1  Etienne Tshisekedi/NC 
+      1   Etienne Tshisekedi/NC 
+      1   Etienne Monin 
+      1   Erdogan 
+      1  El Rodeo 
+      1   Elena Poniatowska 
+      1  El Chapo 
+      1   El Chapo 
+      1  Ehoud Barak 
+      1   Draper 
+      1  Donald Kraybill 
+      1   Dick Hoffmann 
+      1   Dick Hoffman 
+      1  Devlet/NC 
+      1  Devlet Bahçeli 
+      1   Devlet Bahçeli 
+      1  Deir Ezzor 
+      1   Davis 
+      1  David Pearl 
+      1  David Ignatius 
+      1   David Ignatius 
+      1   Dany Al-Baadj 
+      1   Daniel Ngoy Mulunda 
+      1   Daniel Klaidman 
+      1  Daily HK 
+      1  Clément Duhaime 
+      1  Ciudad Juarez 
+      1  Ciudad Caribia 
+      1  Chun Chhon 
+      1  Chris Welch 
+      1  Chen Shui-bian 
+      1   Chen Shui-bian 
+      1   Cheikh/NC 
+      1  Che Guevara 
+      1   CHAVEZ 
+      1  Charles Taylor 
+      1  Charles Krauthammer 
+      1   Charles Krauthammer 
+      1  Chapo Guzman 
+      1   Catherine Ashton 
+      1   Caroline/NC 
+      1   Carlos Slim 
+      1   Cancellieri 
+      1   Campbell 
+      1   Caleb 
+      1   Calderon 
+      1   Brennan 
+      1  Boubeye Maiga 
+      1   Boris Dolgov 
+      1   Bilalov 
+      1  Bilal Ag Chérif 
+      1   Bilal Ag Chérif 
+      1   Bergholz 
+      1   Benyamin Nétanyahou 
+      1   Benjamin Netanyahu 
+      1  Benjamin Mayer 
+      1   Benjamin Mayer 
+      1   Benguigui 
+      1  Béchir Gemayel 
+      1  Bavinchove 
+      1   Bachar Jaafari 
+      1  Bab Al-Haddid 
+      1   Babacar Gaye 
+      1  Baba Amro 
+      1   Baba Amro 
+      1   Aung San Suu Kyi 
+      1   Arturo Ripstein 
+      1   Anwar Al-Awlaki 
+      1  Ansar Dine 
+      1   Ansar Al-Din 
+      1   Annamaria Cancellieri 
+      1   Amadou Sanogo 
+      1   Al-Thani 
+      1   Alparslan Türkes 
+      1  Al Muhassan 
+      1   Ali Khamenei 
+      1   Ali Akbar Salehi 
+      1   Ali Abbas 
+      1   Alfredo Guzman 
+      1   Alejandrina Salazar 
+      1   Al-Dabi 
+      1  Akinari Ueda 
+      1   Ahmet Bilalov 
+      1  Ache Fudul Haroun 
+      1   Ache Fudul Haroun 
+      1   Abou Oussama 
+      1   Abou Djaafar 
+      1   Abdullah Khan 
+      1   Abdou Diouf 
+      1   Abdallah 

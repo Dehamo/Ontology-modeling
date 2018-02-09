@@ -1,0 +1,675 @@
+------------------------
+COMPAGNIES
+------------------------
+      5   Douch 
+      4  CPI 
+      3   Bizot 
+      2  Sahamnews 
+      2   Philip 
+      2   Oumar 
+      2   Obama 
+      2   Nathaniel 
+      2   Khamenei 
+      2   Jacob 
+      2   Ilias 
+      1   Yéhia-Ayache 
+      1   VPRC 
+      1   Virgin 
+      1  Versailles 
+      1   Vassili Iakemenko 
+      1   UTHR 
+      1  Union européenne-Afrique 
+      1  Thomson 
+      1   Terreur 
+      1   T 
+      1   Survie 
+      1   Sir 
+      1   Shalit 
+      1   Santhonax 
+      1   Rosarno 
+      1   Ricardo 
+      1  Revolutionary 
+      1   Rasoul 
+      1  Pune 
+      1  Peuls 
+      1   Patimat 
+      1   Paris-Miami 
+      1   Palacios 
+      1  Northwest 
+      1  Netanya 
+      1   National_Patriotic_Front_of_Liberia 
+      1  Nathaniel 
+      1  Marjah 
+      1   Mariam 
+      1  Marfin 
+      1   Kirghiz 
+      1  Karuna 
+      1  Kandahar 
+      1  Kadyrov 
+      1  Jyllands-Posten 
+      1    JE_SUIS_RESPONSABLE_ÉMOTIONNELLEMENT_ET_LÉGALEMENT 
+      1   Javanais 
+      1   Iraniens 
+      1  Inter-Services Intelligence 
+      1   Ingouchie 
+      1   Ibuka 
+      1  Hélène 
+      1   Gilad 
+      1  Gazavat 
+      1   Freire 
+      1  Floride 
+      1   Facebook 
+      1   Ellen 
+      1   Eichmann 
+      1   Duvalier 
+      1   DE NOUVEAU CONVOQUÉE 
+      1   Dan Pfeiffer 
+      1   Concepcion 
+      1   Citoyenneté 
+      1   Cinq 
+      1   CEDH 
+      1   CAMPAGNE DE TERREUR 
+      1   Bouterse 
+      1  Bombay 
+      1   Biobio 
+      1   Bemba 
+      1  BBC 
+      1   Balakhani 
+      1   Bakrie 
+      1   Baby 
+      1   Aventurier 
+      1   Atticus 
+      1   Aristide 
+      1   Arabique 
+      1   Anvar 
+      1  Américano-Libériens 
+      1   Al-Maliki 
+      1   Adedy 
+------------------------
+LIEUX
+------------------------
+     22  Etats-Unis
+     17  Afghanistan
+     16  Liberia
+     15  Pakistan
+     11  Iran
+     10  Inde
+      9  Tchétchénie
+      9  Russie
+      9  France
+      8  Rio
+      8  Moscou
+      8  La
+      8  Haïti
+      8  Cuba
+      7  Paris
+      7  Chili
+      6  Rwanda
+      6  Rotterdam
+      6  Rosarno
+      6  Irak
+      6  Concepcion
+      6  Cambodge
+      6  Amérique
+      5  Téhéran
+      5  Marjah
+      5  Londres
+      5   Israël
+      5   Haïti
+      4  Sri
+      4  Santiago
+      4  Saint-Domingue
+      4  Monrovia
+      4  Jérusalem
+      4  Israël
+      4   Islamabad
+      4   Cuba
+      3  Washington
+      3  Tel-Aviv
+      3  Royaume-Uni
+      3  Proche-Orient
+      3  Pologne
+      3  Pays-Bas
+      3  New
+      3  Moyen-Orient
+      3  Mexique
+      3  Kirghizistan
+      3  Kigali
+      3  Kachine
+      3  Jaffna
+      3  Guinée
+      3  Grozny
+      3  Grande-Bretagne
+      3  Europe
+      3  Caucase
+      3  Autriche
+      3  Asie
+      2   Washington
+      2  Ukraine
+      2  Suriname
+      2  Sierra
+      2  République
+      2  Qom
+      2  Phnom
+      2  Paramaribo
+      2  Och
+      2  Nigeria
+      2  Nancy
+      2  Najafabad
+      2  Mariam
+      2  Lisbonne
+      2   Kinshasa
+      2   Kigali
+      2  Kandahar
+      2  Kahrizak
+      2  Kadyrov
+      2  Kaboul
+      2  Islamabad
+      2  Internet
+      2  Indonésie
+      2  Haute-Guinée
+      2  François
+      2  Equateur
+      2  Corée
+      2  Conakry
+      2   Colombo
+      2  Colombo
+      2  Chiang
+      2  Brésil
+      2  Bouterse
+      2  Behecht-e-Zahra
+      2  Balakhani
+      2  Al-Qaida
+      2   Al-Qaida
+      2  Allemagne
+      2  Afrique
+      2  Achoura
+      1  Zitacuaro
+      1  Vienne
+      1  Vavuniya
+      1  Valdivia
+      1  URSS
+      1   Ukraine
+      1  Tsenteroï
+      1  Treblinka
+      1  Tortue
+      1  Terreur
+      1   Tchétchénie
+      1  Taylorland
+      1  Taylor
+      1  Stockholm
+      1  Soviétiques
+      1  Siem
+      1  Scheveningen
+      1   Saint-Domingue
+      1  S-21
+      1  Ramallah
+      1  Quetta
+      1  Pune
+      1  Puerto
+      1  Proust
+      1  Proche
+      1  Prague
+      1  Pérou
+      1  Pasok
+      1  Park-Koultoury
+      1  Pâques
+      1  Oxford
+      1  Ouzbeks
+      1  Ouzbékistan
+      1  Oumar
+      1   Och
+      1  Occident
+      1  Netanya
+      1  Muttur
+      1  Münster
+      1  Moussavi
+      1  Miraflores
+      1  Michoacan
+      1  Michigan
+      1  Miami
+      1   Mexico
+      1  Maule
+      1  Massachusetts
+      1  Mardan
+      1  Maliki
+      1  Malaisie
+      1  Mahomet
+      1   Londres
+      1  Lima
+      1   Libye
+      1  Libye
+      1   Liberia
+      1  Laura
+      1  Lanka
+      1  Kislovodsk
+      1  Kinshasa
+      1  Khimki
+      1  Katyn
+      1   Kahrizak
+      1   Kaboul
+      1   JÉRUSALEM
+      1   Jérusalem
+      1   Iran
+      1   Irak
+      1  Interpol
+      1  Hualpen
+      1  Helmand
+      1  Guyane
+      1  Guantanamo
+      1  Grèce
+      1   Grande-Bretagne
+      1  Goudermès
+      1  Goubden
+      1   Gleacher
+      1  Ghana
+      1   Gbarnga
+      1  Galle
+      1  Gabon
+      1  Freetown
+      1  Ferghana
+      1  Evelyn
+      1   Douch
+      1  Douch
+      1   Dessalines
+      1  Curico
+      1  Côte
+      1  Corfou
+      1   Corée
+      1   Concepcion
+      1   Conakry
+      1  City
+      1  Cisjordanie
+      1   Chili
+      1  Chicago
+      1  Centrafrique
+      1  Bruxelles
+      1  Bizot
+      1   Bichkek
+      1  Bichkek
+      1  Berlin
+      1   Benyamin
+      1  Benghazi
+      1  Belgique
+      1  Bali
+      1   Ayiti
+      1  Antilles
+      1  Angkor
+      1  Algérie
+      1    Afghanistan_post-taliban
+      1   Afghanistan-Pakistan
+      1   Afghanistan
+------------------------
+ORGANISATIONS
+------------------------
+     11  OTAN 
+      5  T 
+      5  LTTE 
+      4  UFDG 
+      4  Monde 
+      4  CENI 
+      3   The 
+      3  ONG 
+      3  CIA 
+      3  CEDH 
+      2  Union européenne 
+      2  Sénat 
+      2  Nations unies 
+      2   Kaing 
+      2  Cour pénale internationale 
+      2  CO2 
+      1  Wikileaks 
+      1  Washington Post 
+      1  Wall 
+      1   University 
+      1  Union 
+      1   TSSL 
+      1  Tchétchénie 
+      1  Saut 
+      1   RUF 
+      1   RDC 
+      1  Phnom Penh 
+      1  Parti socialiste 
+      1  Parti national démocratique 
+      1  Parti libéral 
+      1  Parti communiste 
+      1  Parti 
+      1  Parlement 
+      1  ONU 
+      1   ONG 
+      1  O 
+      1  MRTA 
+      1  Mouvement révolutionnaire Tupac Amaru 
+      1  Mouvement 
+      1  Mission 
+      1  Médecins 
+      1   LTTE 
+      1  London School 
+      1  Le Monde 
+      1  Jerusalem Post 
+      1  ISI 
+      1   ISI 
+      1  Institut français 
+      1   Human Rights Watch 
+      1   HRW 
+      1  Haut-Commissariat 
+      1   GSEE 
+      1  Force internationale 
+      1  FL 
+      1   FL 
+      1  FIAS 
+      1  Fédération internationale 
+      1  Fédération 
+      1  EAU 
+      1   Douch 
+      1  Cour suprême 
+      1  Cour européenne 
+      1  Commission asiatique 
+      1   CIA 
+      1   CENI 
+      1  Bureau autrichien 
+      1  BOPE 
+      1  Autorité palestinienne 
+      1  Association péruvienne 
+      1  Assemblée législative 
+      1  AIEA 
+      1  AHRC 
+------------------------
+PERSONNES
+------------------------
+     13   Bertrand Badie 
+      9  Ramzan Kadyrov 
+      9   Charles Taylor 
+      7  Tuol Sleng 
+      7   Ramadan 
+      7  Charles Taylor 
+      5   Oumar Israïlov 
+      5  Gilad Shalit 
+      5   David Cameron 
+      5   Cellou Dalein Diallo 
+      4   Timochenko 
+      4   Nathaniel Rothschild 
+      4   Mahmoud Ahmadinejad 
+      4   Jean-Pierre Bemba 
+      3   Sarkozy 
+      3   Ramzan Kadyrov 
+      3   Otunbaeva 
+      3   Nicolas Sarkozy 
+      3   Moussavi 
+      3  David Cameron 
+      3   Bush 
+      3   Benyamin Nétanyahou 
+      3  Barack Obama 
+      2   Zardari 
+      2   Raul Castro 
+      2   Poutine 
+      2   Michelle Bachelet 
+      2  Mehdi Karoubi 
+      2   McChrystal 
+      2   Mariam Charipova 
+      2   Luiz Eduardo Soares 
+      2   Lori Berenson 
+      2   Le Huérou 
+      2  José Padilha 
+      2   José Padilha 
+      2   Jean-Bertrand Aristide 
+      2   Javad Etaat 
+      2   Headley 
+      2   Hamid Karzaï 
+      2   Hamadi Moghaddam 
+      2   Hadad Addel 
+      2   François Duvalier 
+      2   François Bizot 
+      2  Foday Sankoh 
+      2   Dmitri Medvedev 
+      2   Dick Cheney 
+      2   Diallo 
+      2  Choeung Ek 
+      2   Cameron 
+      2   Artour Kourmakaev 
+      1  Zahra Rahnavard 
+      1   Zahra Rahnavard 
+      1  Yoweri Museveni 
+      1   Yossi Kuperwasser 
+      1  Yoel Shalit 
+      1   Yoel Shalit 
+      1   Xristoforos Vernardakis 
+      1   William Tolbert 
+      1   Vladimir Poutine 
+      1  Viktor Ianoukovitch 
+      1   Victoire Ingabire 
+      1   Velupillai Prabhakaran 
+      1  Ulf Henricsson 
+      1   Tzvetan Todorov 
+      1  Toussaint/NC 
+      1  Toussaint Louverture 
+      1   Toussaint/DET Louverture 
+      1   Tel 
+      1  Tariq Ramadan 
+      1   Tariq Ramadan 
+      1   Talabani 
+      1   Sydney Bechet 
+      1   Steven Rapp 
+      1  Stanley McChrystal 
+      1   Stanley McChrystal 
+      1  Srah Srang 
+      1   Sisi Pafinou 
+      1  Siaka Sangaré 
+      1  Shlomo Artzi 
+      1   Shakhman Akboulatov 
+      1   Shah Mehmood Qureshi 
+      1   Sergueï Chirgouïev 
+      1   Sékou Resco Camara 
+      1   Sékouba Konaté 
+      1   Sebastian Pinera 
+      1  Satyajit Ray 
+      1   Sangaré 
+      1   Samuel K 
+      1  Roza Otunbaeva 
+      1   Rothschild and Sons 
+      1   Rothschild 
+      1  Rony Brauman 
+      1   Ronnie Brunswijk 
+      1   Roman Popkov 
+      1  Robinson Crusoé 
+      1  Raul Castro 
+      1   Ranil Wikramasinghe 
+      1   Pol Pot 
+      1   Pete Hoekstra 
+      1   Paulo Paranagua 
+      1   Paulo/NC 
+      1   Paul Kagamé 
+      1   Paul Bhagwandas 
+      1  Pat Robertson 
+      1   Palaniappan Chidambaram 
+      1  Oussama Al-Noujaifi 
+      1   Oussama Al-Noujaifi 
+      1   Osvaldo Martinez 
+      1  Omar Farouk Abdulmutallab 
+      1   Obama 
+      1   Nouri/NC 
+      1  Nouri Al-Maliki 
+      1   Noam Shalit 
+      1  New York 
+      1   Newt Gingrich 
+      1  New/NC 
+      1  New Delhi 
+      1   New Delhi 
+      1  Nate Thayer 
+      1  Natalia Estemirova 
+      1   Natalia Estemirova 
+      1   Moshé Negbi 
+      1  Mitzpe Hila 
+      1  Mir Hossein Moussavi 
+      1   Mircea Eliade 
+      1   Mikhaïl Beketov 
+      1  Michelle Bachelet 
+      1   Meir Lau 
+      1   Medvedev 
+      1   Mayer Amschel 
+      1   Matt Waldman 
+      1   Mark/NC 
+      1   Marcelo Rivera 
+      1   Marcelo Freixo 
+      1   Malinkés 
+      1  Mahinda Rajapakse 
+      1   Magomedali Vagabov 
+      1   Luis Marill 
+      1   Louise Arbour 
+      1  Lori Berenson 
+      1  Lord Jacob 
+      1   Lia Basakaki 
+      1   Leclerc 
+      1  Laurent-Désiré Kabila 
+      1   Konstantin Fetissov 
+      1   Karoubi 
+      1   Kadyrov 
+      1   Juvénal Habyarimana 
+      1  Joseph Kabila/NC 
+      1   Joseph Kabila 
+      1   Jorge Palou 
+      1   John Kennedy 
+      1  Joe Biden 
+      1  Jean-Pierre Boyer 
+      1  Jean-Pierre Bemba 
+      1   Jean-Pierre 
+      1   Jeannot Bemba Saolana 
+      1   Jean-Jacques Dessalines 
+      1   Jean-François 
+      1  Jean Filliozat 
+      1   Jean-Claude Duvalier 
+      1   Jean-Claude 
+      1   Jean Boulbet 
+      1  Jacques Chirac 
+      1   Jacqueline Van Rysselberghe 
+      1  Ioulia Timochenko 
+      1   Ioulia Timochenko 
+      1   Human Rights Watch 
+      1   Hugo Chavez 
+      1   Holbrooke 
+      1  Henry Kissinger 
+      1  Hector Palacios/NC 
+      1  Harald Mueller 
+      1   Habyarimana 
+      1   Guy Wyser-Pratte 
+      1   Guy 
+      1   Gretchen Peters 
+      1   Grashoff 
+      1   Gitta Sereny 
+      1  Gioia Tauro 
+      1   Gilles Kepel 
+      1  German Bakery 
+      1  George Mitchell 
+      1   George Bush 
+      1   Gay Krant 
+      1   François Bozizé 
+      1   Foday Sankoh 
+      1  Fidel Castro 
+      1   Felipe Calderon 
+      1   Ezzedine Al-Qassam 
+      1   Evguenia Tchirikova 
+      1   Ehoud Barak 
+      1   Don Pedro 
+      1   Donald Tusk 
+      1   Dominique 
+      1  Dokou Oumarov 
+      1   Doe 
+      1   Djannet Abdoullaeva 
+      1  Djalal Talabani 
+      1  Desi Bouterse 
+      1   Desi Bouterse 
+      1    de_Gaulle 
+      1   David Petraeus 
+      1  David Coleman Headley 
+      1   Crowley 
+      1  Christophe Colomb 
+      1   Christophe 
+      1   Chidambaram 
+      1   Cheney 
+      1   Charlie Parker 
+      1   Charles X 
+      1   Charles McArthur Taylor 
+      1  Charlemagne Péralte 
+      1   Chapour Kazemi 
+      1   Caracas-La Havane 
+      1   Calderon 
+      1   Brad/DET Woodhouse 
+      1  Bois Caïman 
+      1   Benoît Miribel 
+      1  Bayram Balci 
+      1   Barack Obama 
+      1   Bachelet 
+      1   Ayiva Saibou 
+      1  Askar Akaev 
+      1  Asif Ali Zardari 
+      1   Asif Ali Zardari 
+      1  Artour Kourmakaev 
+      1   Aristide 
+      1   Aris Kontizas 
+      1   Anthony Blinken 
+      1  Anne/NC 
+      1  Anne Le/DET Huérou 
+      1  Anne 
+      1  Ange-Félix Patassé 
+      1   Anders Fogh Rasmussen 
+      1  Alpha Condé 
+      1   Alan Garcia 
+      1   Akboulatov 
+      1   Ahmed Aboutaleb 
+      1   Aboutaleb 
+      1   Abbas 
+------------------------
+VERBES
+------------------------
+      2 être exécutés 
+      2 avoir réalisé 
+      2 avoir commis 
+      1 être utilisés 
+      1 être tuées 
+      1 être transmis 
+      1 être traité 
+      1 être respecté 
+      1 être reporté 
+      1 être  repensé 
+      1 être renversé 
+      1 être punies 
+      1 être publié 
+      1 être prononcée 
+      1 être proclamée 
+      1 être libérée 
+      1 être justifié 
+      1 être jugé 
+      1 être gagnée 
+      1 être entouré 
+      1 être effacé 
+      1 être dominée 
+      1 être démentie 
+      1 être décimés 
+      1 être convoquée 
+      1 être condamné 
+      1 être attribuées 
+      1 être atteint 
+      1 être assassiné 
+      1 être apuré 
+      1 être amputée 
+      1 être aimé 
+      1 être acheminée 
+      1 avoir téléguidé 
+      1 avoir suivi 
+      1 avoir pris 
+      1 avoir participé 
+      1 avoir ordonné 
+      1 avoir mené 
+      1 avoir mangé 
+      1 avoir fomenté 
+      1 avoir fait 
+      1 avoir été tués 
+      1 avoir établi 
+      1 avoir égarés 
+      1 avoir dirigé 
+      1 avoir dérobé 
+      1 avoir dépassés 
+      1 avoir démérité 
+      1 avoir constaté 
+      1 avoir appris 
+      1 avoir accompli 

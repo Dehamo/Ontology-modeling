@@ -1,0 +1,468 @@
+------------------------
+PERSONNES
+------------------------
+     84  Boko Haram 
+     22   Boko Haram 
+     16   Hissène Habré 
+     15  N’ Djamena 
+     13  Charlie Hebdo 
+     13   Benyamin Nétanyahou 
+     11   Pierre Nkurunziza 
+      9   Nétanyahou 
+      9   Muhammadu Buhari 
+      9   Dominic Ongwen 
+      7   Saleh Younous 
+      7   Dylann Roof 
+      6  Hissène Habré 
+      6   Bosco Ntaganda 
+      5   Salem Brahimi 
+      5  Ramzan Kadyrov 
+      5   Nelson Mandela 
+      5   Massinissa Selmani 
+      5   Erdogan 
+      5  Bosco Ntaganda 
+      4   Rivlin 
+      4   Michel 
+      4   Mahmoud Abbas 
+      4   Leyla Bouzid 
+      4   Idriss Déby 
+      4   Denis Sassou-Nguesso 
+      4  Bachar Al-Assad 
+      3   Younous 
+      3  Yitzhak Rabin 
+      3   Servando Gomez 
+      3   Ségolène Royal 
+      3   Sedat Peker 
+      3  Reed Brody 
+      3   Reed Brody 
+      3   Recep Tayyip Erdogan 
+      3   Ramzan Kadyrov 
+      3   Priscilla Sadatchy 
+      3  Pierre Nkurunziza 
+      3   Obama 
+      3   John Kerry 
+      3   Habré 
+      3  Goodluck Jonathan 
+      3   Goodluck Jonathan 
+      3   Gilles Yabi 
+      3   Geert Wilders 
+      3  Dominic Ongwen 
+      3   Djokhar Tsarnaev 
+      3   Buhari 
+      3   Boko/NC 
+      3  Alpha Condé 
+      3   Ahmet Davutoglu 
+      3   Abdirashid Duale 
+      2   Zakaria Bakir 
+      2   Yahya Jammeh 
+      2  Vladimir Poutine 
+      2   Souleymane Guengueng 
+      2  Sidi Bouzid 
+      2   Saad Benkhelif 
+      2   Reuven Rivlin 
+      2  Recep Tayyip Erdogan 
+      2   Philippe 
+      2   Petra Laszlo 
+      2   Ongwen 
+      2   Nkurunziza 
+      2  New York 
+      2  Nelson Mandela 
+      2   N’ Djamena 
+      2   Naftali Bennett 
+      2   Naama Henkin 
+      2   Moché Lewin 
+      2   Matt Bryden 
+      2   Manuel Valls 
+      2   Manuel/NC 
+      2   Mahamadou Karidjo 
+      2   Macky Sall 
+      2   Ken Menkhaus 
+      2   Judy Clarke 
+      2  Joseph Kony 
+      2   José Luis Abarca 
+      2  John Kerry 
+      2   Jean-Pierre Palasset 
+      2   Islam Oumarpachaev 
+      2  Iga Barrière 
+      2   Idriss Déby Itno 
+      2   Hisham Aidi 
+      2   Hassan Cheikh Mohamoud 
+      2  Hafez Al-Assad 
+      2   Gomez 
+      2   Godefroid Niyombare 
+      2  Global Witness 
+      2   François-Xavier Fauvelle 
+      2   François Patuel 
+      2   François Hollande 
+      2  Faure Gnassingbé 
+      2   Faure Gnassingbé 
+      2   Eric Dupuy 
+      2  Eagle Square 
+      2  Desmond Tutu 
+      2   Chris Gunness 
+      2  Benyamin Nétanyahou 
+      2   Ben Ali 
+      2   Basel Ghattas 
+      2   Barack Obama 
+      2  André Brink 
+      2   Abubakar Shekau 
+      2  Aboubakar Shekau 
+      2  Abdel Rahmane Abdallah 
+      2   Abakachi Djato 
+      1   Zakiur Rehman Lakhvi 
+      1   Zakaria Fadoul Khidir 
+      1   Yoweri Museveni 
+      1   Yohan/NC 
+      1   Yitzhak Rabin 
+      1   Yitzhak Aharonovitch 
+      1   Yigal Palmor 
+      1  Yesh Atid 
+      1   Yekbun Eksen 
+      1   Yehuda Weinstein 
+      1  Yehuda Glick 
+      1   Yassine Ayari 
+      1  Yanis Koussim 
+      1   Yalçin Akdogan 
+      1  Yahya Jammeh 
+      1  Yad Vashem 
+      1   William Weinreb 
+      1  Wesam Sabaaneh 
+      1   Wesam Sabaaneh 
+      1   Welli Nzitonda 
+      1   Vladimir Vladimirovitch Poutine 
+      1   Vitaly Fedchenko 
+      1   Viktor Orban 
+      1  Victor Ochen 
+      1   Veysel Eroglu 
+      1   Valls 
+      1   Uri Ariel 
+      1   Uhuru Kenyatta 
+      1   Tzipi Hotovely 
+      1  Tierra Caliente 
+      1   Thomas Landman 
+      1  Thione Seck 
+      1  Theodore Kaczynski 
+      1   Tansu Ciller 
+      1  Tamerlan/NC 
+      1  Talaat Pacha 
+      1   Talaat Pacha 
+      1   Tahir Elçi 
+      1   Sydney Corcoran 
+      1   Steven Mellin 
+      1  Stephen King 
+      1   State Building 
+      1   Souleymane/NC 
+      1   Sophie Nivelle-Cardinale 
+      1   Solberg 
+      1  Slobodan 
+      1  Sissi Probablement 
+      1   Sinjari 
+      1   Sidya Touré 
+      1  Siad Barre 
+      1   Siad Barre 
+      1  Shin Beth 
+      1  Selahattin Demirtas 
+      1  Sedat Peker 
+      1  Sciences Po 
+      1   Sandor Toro 
+      1  Samir Kuntar 
+      1  Sami Al-Jaar 
+      1   Salvador Sanchez Ceren 
+      1   Salman 
+      1   Saleh Youssef 
+      1  Saleh Younous 
+      1   Rutger Fortuin 
+      1  Rose Lokissim 
+      1   Rose Lokissim 
+      1   Roch/ET 
+      1   Robert Hissein Gambier 
+      1   Rino Tzror 
+      1  Research Center 
+      1   Réouven Rivlin 
+      1   Regardez Israël 
+      1   Reed/ET 
+      1   Raphael Lemkin 
+      1   Ralph Rugoff 
+      1  Rached Ghannouchi 
+      1  Rabin 
+      1   Pineda 
+      1   Pierre-Louis Opont 
+      1   Pierre Laurent 
+      1   Pierre Hazan 
+      1  Pierre Galopin 
+      1   Pierre Buyoya 
+      1  Peter Neumann 
+      1   Paul Biya 
+      1   Parler 
+      1   Oumar Israïlov 
+      1   Oren Hazan 
+      1  ONG Global Witness 
+      1   Olukolade 
+      1  Olivier Ray 
+      1   Okot Odhiambo 
+      1   Okba Ibn Nafaa 
+      1  Okba 
+      1   Noumen Mhamdi 
+      1   Nobel/NC 
+      1   Noah Klieger 
+      1  Njaga Jagne 
+      1   Niyombare 
+      1   Niklas Hallgren 
+      1   Nicolas Krameyer 
+      1   Nickolay Mladenov 
+      1  New Delhi 
+      1   Nétanyahou s’ 
+      1   Nétanyahou dimanche/NC 
+      1   Netanyahou 
+      1   Nelson/NC 
+      1   Nazmi Gür 
+      1   Nationaldemokratische Partei Deutschlands 
+      1   Narendra Modi 
+      1   Mutual Assured Destruction 
+      1  Mustapha Ourad 
+      1   Multinational Joint Task/NC 
+      1  Muhammadu Buhari 
+      1   Moustafa Khalifé 
+      1   Mouhamed Guèye 
+      1  Mouammar Kadhafi 
+      1   Moshe Yaalon 
+      1  Moncef Marzouki 
+      1   Mokhtar Belmokhtar 
+      1   Mohammad Sarmini 
+      1  Mohamed Youssouf 
+      1   Mohamed Sghaier Saihi 
+      1  Mohamed Merah 
+      1  Mohamed Mbougar Sarr 
+      1   Mohamed Mbougar Sarr 
+      1  Mohamed Mbougar 
+      1   Mohamed Ben Salman 
+      1   Mohamed Ben Nayef 
+      1  Moché Lewin 
+      1  Moataz Hijazi 
+      1   Miguel Fortín Magaña 
+      1   Merkel 
+      1  Menachem Begin 
+      1  Mavi/NC 
+      1  Matthias Fekl 
+      1  Massinissa Selmani 
+      1   Massaoudou 
+      1  Martin Richard 
+      1   Markus Kaim 
+      1  Marafa Hamidou Yaya 
+      1   Mamoudou Wane 
+      1  Malam Fatori 
+      1  Malala Yousafzai 
+      1  Mahmoud Abbas 
+      1  Magyar Nemzet 
+      1  Macky Sall 
+      1   Maamoun Abdelkarim 
+      1   Luther 
+      1   Luis Martinez 
+      1   Loretta Lynch 
+      1  L’ Observateur 
+      1   Ledio/ET 
+      1   Lechi Bogatyrov 
+      1  Lamia Al-Gailani 
+      1   Khalifa Haftar 
+      1   Kerry 
+      1   Kadhafi 
+      1   Kader/ET 
+      1   Joseph Kony 
+      1   Josef Schuster 
+      1   José Enrique Castillo Barrantes 
+      1   John Boehner 
+      1   Joe Biden 
+      1   Jérémie/NC 
+      1   Jean-Pierre Fabre 
+      1   Jean-Herman Guay 
+      1  James Foley 
+      1  Jair Melchior 
+      1   Jair Melchior 
+      1   Jacqueline Moudeïna 
+      1  Jacob Zuma 
+      1  Jabal Moukabber 
+      1   Issoufou 
+      1   Ismail/NC 
+      1   Isak Bingöl 
+      1  Isabelle Coixet 
+      1  Isabel Coixet 
+      1  Isaac Herzog 
+      1   Isaac Herzog 
+      1  Irina Bokova 
+      1  Ignatius Kaigama 
+      1  Idriss Déby 
+      1   Ibrahim Wanda 
+      1   Ibrahima Khaliloulah Ndiaye 
+      1   Ibrahim Ag Inawalen 
+      1   Ibn Battûta 
+      1   Human Rights Watch 
+      1  Human 
+      1  Hissène 
+      1  Hisham/NC Aidi/NC 
+      1  Hisham Aidi 
+      1  Hervé Gourdel 
+      1   Helle Thoming-Schmidt 
+      1   Hélène/NC 
+      1  Hawa/NC 
+      1   Hassoumi Massaoudou 
+      1   Hassan Hassan 
+      1   Haneen Zoabi 
+      1   Haj Amin Al-Husseini 
+      1   Hagaï Amir 
+      1   Guy Brice Parfait Kolélas 
+      1  Grozny 
+      1   Gouri Abdelmalek 
+      1  Goukouni Oueddeï 
+      1   Goukouni/NC 
+      1  Godefroid Niyombare 
+      1    Godefroid_Niyombare 
+      1   Godefroid/ET 
+      1   Gnassingbé Eyadema 
+      1  Ginette Ngarbaye 
+      1   Ginette Ngarbaye 
+      1   Gideon Levy 
+      1  George W 
+      1   Georges Vandenbeusch 
+      1  George Orwell 
+      1  Geert Wilders 
+      1   Gberdao Gustave Kam 
+      1  Garance/NC 
+      1   Gabriel Amisi 
+      1   Frédéric Bintsamou 
+      1  Frank-Walter Steinmeier 
+      1  François-Xavier Fauvelle 
+      1  François Hollande 
+      1  Françoise Claustre 
+      1   Faure Essozimna Gnassingbé 
+      1   Fatou Bensouda 
+      1   Fan Jinghui 
+      1   Fahd 
+      1   Euzhan Palcy 
+      1   Erna Solberg 
+      1   Eric Attal 
+      1   Eric 
+      1   Emily Pierce 
+      1   Elie Wiesel 
+      1   Elçi 
+      1   Ehoud Olmert 
+      1  Ebrima Manneh 
+      1  Dylann Roof 
+      1   Dot Scott 
+      1   Dlamini Zuma 
+      1  Djokhar Tsarnaev 
+      1   Djokhar/NC 
+      1   Dire Dawa 
+      1   Die Ambassadeur 
+      1   Diane Feinstein 
+      1  Denis Sassou-Nguesso 
+      1   Debbie Pills 
+      1  Dawda Jawara 
+      1   Davutoglu 
+      1  David Cameron 
+      1  Dara Sinjari 
+      1  Daniel Buren 
+      1   Damantang Albert Camara 
+      1   Daily Trust 
+      1  Dagens/NC 
+      1   Coetzee 
+      1  Cobra Matata 
+      1   Clinton 
+      1   Clément/NC 
+      1   Clementa Pinckney 
+      1   Clément Abaïfouta 
+      1   Christian Thibon 
+      1   Chris Olukolade 
+      1  Chris Okulade 
+      1  Chris Hani 
+      1   Chris Hani 
+      1   Chris Antoine Walembaud 
+      1  Chokri Belaid 
+      1  Chhatrappi Shivaji 
+      1  Charlie Heddo 
+      1   Charlie Hebdo 
+      1  Charlie Chaplin 
+      1   Charles Michel 
+      1   Catherine David 
+      1   Buyoya 
+      1   Brink 
+      1   Brice Sana 
+      1  Bourj El-Barajneh 
+      1   Boumédiène 
+      1  Boko/NC 
+      1  Boko Haram L’ 
+      1   Boko/DET Haram 
+      1   Bob Marley 
+      1   Bill/NC 
+      1  Bill Clinton 
+      1   Bill Clinton 
+      1   Bill 
+      1   Bernard Kolélas 
+      1   Bentzi Sau 
+      1   Benjamin Nétanyahou 
+      1  Beni Sheikh 
+      1  Ben Ali 
+      1   Beji Caid Essebsi 
+      1  Beit Sahem 
+      1  Beit Fourik 
+      1  Beit El 
+      1   Batta Films/NC 
+      1  Barack Obama 
+      1   Bachar Al-Assad 
+      1   Babacar Gaye 
+      1  Ayman Al-Zaouahiri 
+      1   Awwal Musa Bashir 
+      1  Augusto Pinochet 
+      1   Ashanti Goldfields Kilo 
+      1   Arturo Hernandez Cardona 
+      1  Anton Lundin-Pettersson 
+      1   Ansar Al-Charia 
+      1   Anne Hidalgo 
+      1   AngloGold Ashanti 
+      1   Angèle Diabang 
+      1   Angela Merkel 
+      1   Angela/ET 
+      1   Andrew Noakes 
+      1   Amnesty International 
+      1   Amine Labter 
+      1   Amazigh Kateb 
+      1  Alpha Condé/NC 
+      1   Alpha Condé 
+      1   Aloke Chakravarty 
+      1   Allah/NC 
+      1   Alioune Badara Fall/NC 
+      1   Ali Modu Sheriff 
+      1   Ali Haïdar 
+      1   Ali Dilem 
+      1   Alexis Tsipras 
+      1  Al-Chabab Al-Moudjahidine 
+      1   Aknaf Beit Al-Maqdess 
+      1   Aimé Adi 
+      1   Ailet Litan 
+      1   Ahmed Umar Abou Oubaïda 
+      1  Ahmed Oumar Dirieh 
+      1   Ahmadou Kourouma 
+      1   Ahmad Majdalani 
+      1   Africaines Extraordinaires 
+      1  Adolf Hitler 
+      1  Adnen Hellali 
+      1   Adnen Hellali 
+      1   Adel Al-Joubeir 
+      1  Abou Mazen 
+      1  Abou Bakr_Al-Baghdadi 
+      1  Abou Bakr Al-Baghdadi 
+      1   Abou Bakr Al-Baghdadi 
+      1   Aboubakar Shekau 
+      1   Aboubacar Sylla 
+      1   Abdullah Öcalan/NC 
+      1   Abdullahi Yusuf Ahmed 
+      1   Abd Rabbo Mansour Hadi 
+      1   Abdourahman Waberi 
+      1  Abdoulaye Wade 
+      1   Abdoulaye Wade 
+      1   Abdoulaye Bathily 
+      1   Abd Mansour Hadi 
+      1   Abdirahim Mohammed Abdoullahi 
+      1   Abdel Rahman Yassin 
+      1   Abdelmalek 
+      1   Abdallah II 
+      1   Abarca 

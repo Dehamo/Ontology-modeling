@@ -1,0 +1,142 @@
+------------------------
+COMPAGNIES
+------------------------
+      6  BBC 
+      5   Romney 
+      4   Tsahal 
+      3   Obama 
+      3  MHP 
+      3  LRA 
+      3  AQMI 
+      2   Zawahiri 
+      2  The 
+      2  Sana 
+      2   Raçak 
+      2   OCI 
+      2  New York Times 
+      2   Mullet 
+      2   MNLA 
+      2   Laurent-Désiré 
+      2   KMT 
+      2   Fadi 
+      2   Douch 
+      2  CNN 
+      2   Al-Qaida 
+      2   Air 
+      2  Abbottabad 
+      1  Zoé 
+      1  Youtube 
+      1    UTILISER_LA_FORCE 
+      1  UCK 
+      1   Twitter 
+      1   Tuer 
+      1  Trapeang 
+      1   The 
+      1   T-72 
+      1   Syrian 
+      1   Stéphane Corcuff 
+      1   Songhaï 
+      1   SIONISTE EXTRÊME 
+      1   Sinaloa 
+      1  Sikrikim 
+      1   Sicilia 
+      1   Shwedagon 
+      1   SHÉRIF_ET_LE_GOUROU 
+      1   Scud-B 
+      1   Sabra 
+      1   RUF 
+      1   Reuters 
+      1   Reinaldo 
+      1   Regardez 
+      1  RDC 
+      1   RDC 
+      1   Rastane 
+      1    QUI_DONC_VA_LES_EN_EMPÊCHER 
+      1   Pyonyang 
+      1   Pyongyang 
+      1   Provea 
+      1   Pov 
+      1   Poursuivez 
+      1  Palestine 
+      1   OVP 
+      1   ONG Tamazgha 
+      1  ONG Enough Project 
+      1  OJSC Northern Caucasus 
+      1  Nexos 
+      1   Nexos 
+      1   National_Journal 
+      1   MPA 
+      1   Moubarak 
+      1  Mossa 
+      1  MORT 
+      1   Mohammed 
+      1   MNA 
+      1   Mitterrand-Balladur 
+      1   Milosevic 
+      1   Masalit 
+      1   Macy' 
+      1   LIEU DE 
+      1  Kywe 
+      1    Kim_Jong-un_– 
+      1  Kanombé 
+      1  Ishinomaki 
+      1  ISAF 
+      1   Internet 
+      1  Institute 
+      1   Habyarimana 
+      1  Haaretz 
+      1   Guilané 
+      1   Ghauri 
+      1  Gécamines 
+      1   Gallimard 
+      1   Forbes 
+      1  Farchana 
+      1   Faradje 
+      1   ETA 
+      1  El Chapo 
+      1   Dieu 
+      1  DES INSTALLATIONS 
+      1    DE_MON_ÉGLISE 
+      1    DE_DEUIL_ET_DE_COLÈRE 
+      1   DC-Cam 
+      1   Darfur' s Sorrow 
+      1  CPI 
+      1   Congo 
+      1   Columbia 
+      1  CNRDRE 
+      1   CNRDRE 
+      1   Chatila 
+      1  CEP 
+      1  Center 
+      1  CENT 
+      1  CBS 
+      1  Caisse 
+      1   Black 
+      1  Birmanie 
+      1   Birmanie 
+      1  Billiton 
+      1   Biden 
+      1   Bergholz 
+      1   Bank_of_Jerusalem 
+      1   Bachar 
+      1  ATT 
+      1   ATT 
+      1  Assali 
+      1   ASL 
+      1   Asiathèque 
+      1   Arkhyz 
+      1  Areva 
+      1   AQMI 
+      1  Al-Qaida 
+      1   Al-Nosra 
+      1  Al-Daoula 
+      1   Al-Chaar 
+      1   Al-Assad 
+      1  Al-Akhbar 
+      1   Akrad 
+      1  Akko 
+      1    ABSURDE_DE_LES_LIBÉRER_IMMÉDIATEMENT 
+      1   Abdallah 
+      1  ABC 
+      1     
+      1    

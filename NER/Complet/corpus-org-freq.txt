@@ -1,0 +1,652 @@
+------------------------
+ORGANISATIONS
+------------------------
+    120  ONU 
+     80  EIIL 
+     56  OTAN 
+     49  EI 
+     39  Conseil 
+     37  AFP 
+     35  Union africaine 
+     33  Parti 
+     33  Monde 
+     31  Nations unies 
+     28  Union européenne 
+     26  Organisation 
+     23  FBI 
+     21   ONU 
+     21  ONG 
+     20  DDS 
+     20  Cour pénale internationale 
+     19  CIA 
+     17  Observatoire syrien 
+     16  Le Monde 
+     14  OSDH 
+     12  Maghreb islamique 
+     11  RDC 
+     11  New York Times 
+     11  Mouvement 
+     11   HRW 
+     11   EIIL 
+     11  Agence 
+     10  Médecins 
+     10  LRA 
+     10  Institut 
+     10  Human Rights Watch 
+     10  Conseil national 
+      9  MNLA 
+      9  Assemblée nationale 
+      8  TTP 
+      8  OSCE 
+      8   Le Monde 
+      8  Commission 
+      7  Wall 
+      7  The 
+      7  Sénat 
+      7   ONG 
+      7  MSF 
+      7  Commission européenne 
+      6  Washington Post 
+      6  Tribunal pénal international 
+      6   The 
+      6  Parlement 
+      6  Mission 
+      6  HRW 
+      6  Fédération 
+      6  Cour suprême 
+      6  Cour européenne 
+      6  Comité international 
+      6  Bundestag 
+      5  Union 
+      5   TSSL 
+      5  T 
+      5  ROC 
+      5   RCA 
+      5  MI5 
+      5  LTTE 
+      5  Institut français 
+      5  IISS 
+      5  Comité 
+      5  Banque mondiale 
+      5   AFP 
+      4  Unicef 
+      4  UFDG 
+      4   RDC 
+      4  Parti républicain 
+      4  Mouvement national 
+      4   Mouvement 
+      4  MNJTF 
+      4  MHP 
+      4   Human Rights Watch 
+      4  HDP 
+      4  Figaro 
+      4  Direction générale 
+      4  DGSE 
+      4  Confédération 
+      4  Centre 
+      4  CENI 
+      4  CEDH 
+      4  BCEAO 
+      4  Banque centrale 
+      4   Associated 
+      4  Assemblée générale 
+      4  ASL 
+      4   ASL 
+      4   AQMI 
+      3  UE 
+      3   TTP 
+      3   SBU 
+      3  PST 
+      3  PKK 
+      3  Parti communiste 
+      3  OCHA 
+      3   MSF 
+      3  Mission internationale 
+      3  KMT 
+      3   Kaing 
+      3  ISI 
+      3   International 
+      3  Haut-Commissariat 
+      3  Force multinationale mixte 
+      3  Financial 
+      3  Fédération internationale 
+      3   EI 
+      3  Douma 
+      3  CPI 
+      3  Cour interaméricaine 
+      3  Cour 
+      3  Commission nationale 
+      3  Coalition nationale syrienne 
+      3   CAE 
+      3  AKP 
+      2  World 
+      2  Wikileaks 
+      2   Wall Street 
+      2   Wall 
+      2  UNRWA 
+      2   Unesco 
+      2  UA 
+      2  TSSL 
+      2   TPIY 
+      2  TF1 
+      2  SOS 
+      2   Solidarnosc 
+      2  Soir 
+      2  Séléka 
+      2  Sécurité 
+      2  SAESSECAM 
+      2  RPDC 
+      2   RPDC 
+      2  RFI 
+      2  Radio France Internationale 
+      2  Radio 
+      2  PK5 
+      2  Parti socialiste 
+      2  Parti révolutionnaire institutionnel 
+      2  Parti démocrate 
+      2  Parlement local 
+      2  Parlement européen 
+      2  Organisation mondiale 
+      2  ORB2 
+      2  Office central 
+      2   OCDE 
+      2  Observatoire 
+      2   NRA 
+      2  Nations 
+      2  Musée juif 
+      2  Mouvement populaire 
+      2  MLC 
+      2  Misca 
+      2   Maria 
+      2   Los 
+      2   Libération 
+      2  LAPD 
+      2  Kinanira 2 
+      2   Joaquin 
+      2   ICG 
+      2   Hürriyet 
+      2  Human Rights 
+      2  Human 
+      2  HCR 
+      2  Global Times 
+      2   Gazeta 
+      2   FSB 
+      2  Front islamique 
+      2   FRCI 
+      2  Force internationale 
+      2  Fonds monétaire international 
+      2  FMI 
+      2  FIDH 
+      2  Fédération russe 
+      2   FDS 
+      2  ETIM 
+      2   Empire 
+      2   DDS 
+      2  Croix-Rouge centrafricaine 
+      2  Cour internationale 
+      2  Conseil national syrien 
+      2  Communauté croate 
+      2  Commission indépendante 
+      2  Commissariat 
+      2  CO2 
+      2  CNT 
+      2  Club 
+      2  CIDH 
+      2  CICR 
+      2  CEI 
+      2  Caroline 
+      2  Bureau international 
+      2  Birmanie 
+      2  Bild 
+      2  Bataillon 
+      2   AVCRP 
+      2  Assemblée 
+      2   AQPA 
+      2  AIDE 
+      2   AGK 
+      2  Agence juive 
+      2  Agence internationale 
+      2  Agence française 
+      2  Académie 
+      2   ABC 
+      1  ZEC 
+      1  ZANU-PF 
+      1   Zaïrois 
+      1  Yonhap 
+      1   Yedioth 
+      1  Waziristan 
+      1   Washington Post 
+      1  Vostok 
+      1  Vierge 
+      1  Vice 
+      1   Vedomosti 
+      1  Vatan-e-Emrooz 
+      1   USDP 
+      1  UPP 
+      1   UNSMIS 
+      1   UNRWA 
+      1   University 
+      1  Université norvégienne 
+      1  Université 
+      1  Union sioniste 
+      1   Union sioniste 
+      1  Union européenne présents 
+      1  Union économique 
+      1  Unesco 
+      1   UMP 
+      1   UGTT 
+      1   UDPS 
+      1  UCK 
+      1   UCK 
+      1  TV5 Monde 
+      1  Tuta 
+      1  TSA 
+      1   TSA 
+      1  trombinoscope 
+      1  Trilatérale 
+      1  Tribune 
+      1  Tribunal permanent 
+      1  Trésor tchadien 
+      1  Trésor 
+      1   TPP 
+      1  TPIY 
+      1  Torah 
+      1  Tohoku 
+      1  The New 
+      1   Terreur 
+      1   Terminator 
+      1  Tehreek-e-taliban Pakistan 
+      1  Tchétchénie 
+      1  Tchernobyl 
+      1  Syrian 
+      1  Syndicat national 
+      1  Sûreté nationale 
+      1  Sunday 
+      1  SS 
+      1   SS 
+      1   SRS 
+      1  Sotchi 
+      1  Somaliland 
+      1  Service national 
+      1  Sénat russe 
+      1  Sénat local 
+      1  Sénat italien 
+      1   security 
+      1  Sécurité nationale 
+      1   Sécurité 
+      1  Secret Service 
+      1  SEC 
+      1  Saut 
+      1   Sangaris 
+      1  Sacrifié 
+      1  RUSI 
+      1   RUF 
+      1  RTL 
+      1   RTL 
+      1  RSP 
+      1   RSP 
+      1   RSF 
+      1  Royal Air 
+      1  Royal 
+      1   Rolling 
+      1  Ria 
+      1  Rhodésie 
+      1  RFA 
+      1   Revolutionary 
+      1  Réseau national 
+      1  Repubblica 
+      1  Reporters 
+      1  Reich 
+      1  RCA 
+      1  Raphaël 
+      1   Ramattan 
+      1  Radio France internationale 
+      1  PVV 
+      1   PST 
+      1  PS 
+      1  Programme alimentaire mondial 
+      1  Programme 
+      1  PRI 
+      1   President’ 
+      1  PRD 
+      1   PNR 
+      1   PNAS 
+      1  PML-N 
+      1   PKK 
+      1  PK0 
+      1  PIDCP 
+      1  Phnom Penh 
+      1  PDP 
+      1  Patriot' 
+      1  Parti radical ukrainien Oleh Liashko 
+      1  Parti populaire progressiste 
+      1  Parti national démocratique 
+      1  Parti national awami 
+      1  Parti libéral 
+      1  Parti islamique 
+      1  Parti démocratique populaire 
+      1  Parti démocratique 
+      1  Parti démocrate progressiste 
+      1  Parti communiste turc 
+      1  Parti communiste français 
+      1  Parti communiste chinois 
+      1   Parti communiste 
+      1   Parti 
+      1  Parlement russe 
+      1  Parlement allemand 
+      1  Panchir 
+      1   PAM 
+      1   Pakistan_Muslim_League-Nawaz 
+      1   Pakistan 
+      1  OVP 
+      1  Organisation nationale 
+      1  Organisation internationale 
+      1  Organisation armée secrète 
+      1  opérations 
+      1  Opération 
+      1  OPEP 
+      1  Open Society 
+      1  ONG Médecins 
+      1  ONG Human Rights Watch 
+      1   ONG Human Rights Watch 
+      1  ONG Human 
+      1   OMS 
+      1  OMBRE 
+      1  OLP 
+      1  OIF 
+      1  Office international 
+      1  OEA 
+      1   ODM 
+      1  OCI 
+      1  OCAM 
+      1  Observatoire vénézuélien 
+      1  O 
+      1   NSA 
+      1  NRA 
+      1  Nouveau Monde 
+      1  Norvégien 
+      1   NKVD 
+      1  NIA 
+      1   New 
+      1   NDOC 
+      1  NBC 
+      1  Nazra 
+      1   Nature 
+      1   National_Rifle_Association 
+      1  National 
+      1  NASA 
+      1   Muttahida_Qaumi_Movement 
+      1  Musée national 
+      1  MSF France 
+      1  MS-13 
+      1  MRTA 
+      1   Mouvement somalien 
+      1  Mouvement révolutionnaire Tupac Amaru 
+      1  Mouvement national somali 
+      1  Mouvement ivoirien 
+      1  Mouvement islamique 
+      1  Mouvement exogène 
+      1  Mouvement démocratique nigérien 
+      1  Mouvement allemand 
+      1   Moskovsky 
+      1  Monde Afrique 
+      1  MONDE 
+      1   MONDE 
+      1   MOMA 
+      1   Mission internationale 
+      1  MDC 
+      1  Matin 
+      1   Massinissa 
+      1   Maïdan 
+      1  M-18 
+      1   LURD 
+      1   LTTE 
+      1   LRA 
+      1  London School 
+      1  L’ Observateur 
+      1  Ligue syrienne 
+      1  Ligue arabe 
+      1   LGBT 
+      1   Le monde 
+      1  LDK 
+      1   LDK 
+      1  LBCA 
+      1   La RDC 
+      1   LAPD 
+      1  Kremlin 
+      1  Kousseri 
+      1  King’ 
+      1  justification politique américaine 
+      1   JUD 
+      1  Journal 
+      1  JongAng 
+      1  Jihad islamique 
+      1  Jerusalem Post 
+      1  Jerusalem 
+      1   Javan 
+      1   JANA 
+      1  JAN 
+      1  Jamahiriya libyenne 
+      1   ISSI 
+      1  ISLAM 
+      1   ISI 
+      1  ISAF 
+      1  Institut Pasteur 
+      1  Institut nautique 
+      1  Institut national 
+      1  IIIe Reich 
+      1  ICG 
+      1   ICBM 
+      1   IBC 
+      1   Human 
+      1  Huffington Post 
+      1   HRCP 
+      1  Hezbollah 
+      1   HCR 
+      1  Haute Cour 
+      1  Haut Conseil 
+      1  Haut Commissaire 
+      1  Haram 
+      1  Guantanamo 
+      1  GSPC 
+      1   GSEE 
+      1  GRU 
+      1   GRU 
+      1  Groupe d’ experts 
+      1  GPRA 
+      1  GI Bill 
+      1   Genève 2 
+      1  FSB 
+      1  Front révolutionnaire uni 
+      1  Front national 
+      1  Frankfurter 
+      1  France 2 
+      1   FPR 
+      1  Foyer juif 
+      1  Force multinationale 
+      1  Force mixte multinationale 
+      1  Force exécutive 
+      1  Force 
+      1   Forbes 
+      1  Food 
+      1  Fonds Akhmad-Kadyrov 
+      1  Fonds 
+      1  Fondation 
+      1  FN 
+      1   FLN 
+      1  FL 
+      1   FL 
+      1   FIPA 
+      1  FIAS 
+      1   Fédération_croato-musulmane 
+      1   FARDC 
+      1  Eurocorps 
+      1  ETA 
+      1   ETA 
+      1  ESPRIT 
+      1   Epoca 
+      1   EMG 
+      1  Ekaterina 
+      1   EI_s’ 
+      1  EI Première 
+      1  EILL 
+      1   EILL 
+      1  Education 
+      1  Ecole normale supérieure 
+      1  Ecole nationale 
+      1  Ecole 
+      1  EAU 
+      1  DPA 
+      1   Douch 
+      1  Donetsk 
+      1   Donald 
+      1  Dogan 
+      1   Disparus 
+      1   Disk 
+      1   Direction_générale_de_la_recherche_extérieure 
+      1  Direction 
+      1  Die Welt 
+      1  Die 
+      1   Die 
+      1  Der Spiegel 
+      1   Der 
+      1   DED 
+      1  Debjam Comedy 
+      1   DDR 
+      1  Davao 
+      1  DANS 
+      1  Daily 
+      1   Daily 
+      1    Daech_casse-toi 
+      1  D 
+      1   Cumhuriyet 
+      1   CRSS 
+      1   CRP 
+      1  Croix-Rouge internationale 
+      1  Croix 
+      1  Cour suprême ivoirienne 
+      1  Cour suprême empiète 
+      1  Cour fédérale 
+      1  Council 
+      1  Conseil syrien 
+      1  Conseil supérieur islamique chiite 
+      1  Conseil supérieur 
+      1  Conseil régional 
+      1  Conseil provincial 
+      1   Conseil national intérimaire 
+      1  Conseil militaire 
+      1  Conseil législatif palestinien 
+      1  Conseil français 
+      1  Conseil européen 
+      1  Conseil démocratique kurde 
+      1  Conseil consultatif 
+      1  Conseil central 
+      1   CONFESSIONNELLE 
+      1   Communauté économique 
+      1  Commission Vérité 
+      1  Commission générale 
+      1  Commission électorale nationale indépendante 
+      1  Commission électorale indépendante 
+      1  Commission électorale 
+      1  Commission asiatique 
+      1  Commission africaine 
+      1   Commissariat 
+      1  Comité union 
+      1  Comité olympique 
+      1  Comité national anti-terrorisme 
+      1  Comité disparaître 
+      1  Comité central 
+      1  Comité antimonopoles 
+      1  Combating Terrorism 
+      1  COBR 
+      1  CNS 
+      1   CNRS 
+      1  CNRDRE 
+      1  CNDD-FDD 
+      1   Cité 
+      1   CIRGL 
+      1  CICA 
+      1   CIA 
+      1  Chambre 
+      1  Chaghour 
+      1  CEP 
+      1  Centre Pompidou 
+      1  Centre pénitentiaire 
+      1  Centre international 
+      1   Centre 
+      1   CENI 
+      1  CDU 
+      1  Cavaliere 
+      1  Canard Enchainé 
+      1  CAN 
+      1  Camerounais 
+      1   Cambridge 
+      1   Burkinabé 
+      1  Bureau autrichien 
+      1  Bureau 
+      1  Bunte 
+      1  Bundeswehr 
+      1  Brookings 
+      1  Boxing Day 
+      1  Boston Globe 
+      1  Bosso 
+      1  BOPE 
+      1  Boko Haram mercredi 
+      1  BNA 
+      1  Black 
+      1  BJP 
+      1   BJP 
+      1  BIR 
+      1  BIJ 
+      1  Bible 
+      1   Belga 
+      1  Bavière 
+      1   Barack 
+      1  Banque centrale européenne 
+      1  AVCRP 
+      1  Autorité palestinienne 
+      1  ATS 
+      1   ASWJ 
+      1  Association péruvienne 
+      1  Association mutuelle israélite argentine 
+      1  Association mexicaine 
+      1  Association internationale 
+      1   Association chrétienne 
+      1  Association 
+      1  Associated 
+      1  Assemblée législative 
+      1   Arte 
+      1  Armée syrienne libre 
+      1  AQMI 
+      1  AP L’ 
+      1  APC 
+      1  AP 
+      1   AP 
+      1   AOAV 
+      1  Antenne 2 
+      1  ANIMAUX 
+      1  ANC 
+      1   ANC 
+      1  Anatolie 
+      1  Amisom 
+      1  Al-Qaida 
+      1   Al-Naba 
+      1  ALN 
+      1   ALN 
+      1  Alliance atlantique 
+      1   AKP 
+      1  AIEA 
+      1  AHRC 
+      1  Ahle 
+      1  AGK 
+      1  Agence nationale 
+      1  Agence algérienne 
+      1  AFD 
+      1   ADN 
+      1   ADF 
+      1  Académie diplomatique 
+      1   Aboubakar 
+      1  ABC 
+      1   AB 
+      1  A 
+      1    

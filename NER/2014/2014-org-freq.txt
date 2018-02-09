@@ -1,0 +1,167 @@
+------------------------
+ORGANISATIONS
+------------------------
+     79  EIIL 
+     36  ONU 
+     33  EI 
+     13  Organisation 
+     13  Conseil 
+     12  Union africaine 
+     11  AFP 
+     10  Nations unies 
+     10   EIIL 
+      7  TTP 
+      7  OTAN 
+      7  OSCE 
+      7  New York Times 
+      6  Union européenne 
+      6  Agence 
+      5  Parti 
+      4  The 
+      4  Monde 
+      4  Le Monde 
+      4  Commission 
+      3  OSDH 
+      3  OCHA 
+      3  Observatoire syrien 
+      3  Médecins 
+      3   Le Monde 
+      3  Coalition nationale syrienne 
+      2   Solidarnosc 
+      2  Séléka 
+      2   SBU 
+      2  PK5 
+      2  Parlement local 
+      2  Office central 
+      2  Musée juif 
+      2  MSF 
+      2   Maria 
+      2  Institut français 
+      2  Institut 
+      2  Haut-Commissariat 
+      2   Gazeta 
+      2  Front islamique 
+      2  Figaro 
+      2  ETIM 
+      2  Douma 
+      2  Commission européenne 
+      2  CICR 
+      2  CIA 
+      2  Bild 
+      2  Banque mondiale 
+      2   Associated 
+      1  Waziristan 
+      1  Washington Post 
+      1  Vostok 
+      1  Vierge 
+      1  Vice 
+      1  UPP 
+      1  UNRWA 
+      1  Unicef 
+      1  UE 
+      1  UA 
+      1  Tribune 
+      1  Tribunal permanent 
+      1  Tribunal pénal international 
+      1  Torah 
+      1  The New 
+      1   The 
+      1  Sûreté nationale 
+      1  Sunday 
+      1  SS 
+      1   SS 
+      1  Service national 
+      1  Sénat russe 
+      1   security 
+      1  Royal Air 
+      1  Ria 
+      1  RFI 
+      1  RFA 
+      1  Reporters 
+      1  Reich 
+      1   RCA 
+      1  PRD 
+      1  PIDCP 
+      1  Parti révolutionnaire institutionnel 
+      1  Parti radical ukrainien Oleh Liashko 
+      1  Parti communiste chinois 
+      1  Parlement 
+      1  Panchir 
+      1  ONG Médecins 
+      1  ONG Human Rights Watch 
+      1  ONG 
+      1   ONG 
+      1  OLP 
+      1   ODM 
+      1  Observatoire 
+      1   NSA 
+      1   NDOC 
+      1  NBC 
+      1  Mouvement démocratique nigérien 
+      1  Mouvement allemand 
+      1  Mouvement 
+      1   Mouvement 
+      1  Mission internationale 
+      1   Mission internationale 
+      1  Mission 
+      1  Misca 
+      1   Maïdan 
+      1  Maghreb islamique 
+      1  Ligue arabe 
+      1  LBCA 
+      1  Kremlin 
+      1  Jihad islamique 
+      1  JAN 
+      1  ISI 
+      1   International 
+      1  Human Rights Watch 
+      1  Human 
+      1   HRW 
+      1  HCR 
+      1   HCR 
+      1  Haut Commissaire 
+      1  Guantanamo 
+      1  GRU 
+      1  Financial 
+      1  Fédération russe 
+      1  Fédération 
+      1  EI Première 
+      1   EILL 
+      1  Education 
+      1  Ecole nationale 
+      1  DPA 
+      1  Donetsk 
+      1  Dogan 
+      1   Der 
+      1  Croix-Rouge centrafricaine 
+      1  Cour pénale internationale 
+      1  Cour interaméricaine 
+      1  Cour européenne 
+      1  Conseil militaire 
+      1  Commission électorale indépendante 
+      1  Comité national anti-terrorisme 
+      1  Comité international 
+      1  Comité antimonopoles 
+      1  Comité 
+      1  CNS 
+      1  CICA 
+      1  Centre 
+      1  CDU 
+      1  CAN 
+      1  Bunte 
+      1  Bundestag 
+      1  Brookings 
+      1  Boxing Day 
+      1  Boko Haram mercredi 
+      1   Barack 
+      1   ASWJ 
+      1  Association internationale 
+      1   Association chrétienne 
+      1  Associated 
+      1  Assemblée générale 
+      1   AQPA 
+      1   AQMI 
+      1  APC 
+      1  AP 
+      1  Antenne 2 
+      1  Amisom 

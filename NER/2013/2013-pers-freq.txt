@@ -1,0 +1,382 @@
+------------------------
+PERSONNES
+------------------------
+      9   Musharraf 
+      7   François Hollande 
+      6   Nawaz Sharif 
+      6   Mariana Mota 
+      6   Dorner 
+      5   Sharif 
+      5   Obama 
+      5  François Hollande 
+      4   Shauna Dillavou 
+      4   Robert Mugabe 
+      4   Nelson Mandela 
+      4  Mouammar Kadhafi 
+      4   Michel Djotodia 
+      4   Michael Adebowale 
+      4   Kim Jong-un 
+      4   Djotodia 
+      4   Bachar Al-Assad 
+      4  Ansar Eddine 
+      4   Ahmadinejad 
+      3   Scotland Yard 
+      3   Recep Tayyip Erdogan 
+      3   Nuon Chea 
+      3  Michel Djotodia 
+      3   Michael Adebolajo 
+      3   Mario Monti 
+      3   Laurent Fabius 
+      3  Kim Jong-un 
+      3   John Kerry 
+      3   Jean-Yves 
+      3   Fabius 
+      3   Djokhar Tsarnaev 
+      3   Boko Haram 
+      3  Ben Laden 
+      3  Ben Hamouda 
+      3  Bachar Al-Assad 
+      3   Angela Merkel 
+      3   Abou Ghaith 
+      2   Valdiviezo 
+      2  San Pedro Sula 
+      2   Samuel Mullet 
+      2  Saddam Hussein 
+      2  Robert Mugabe 
+      2  Richard Ramirez 
+      2  Recep Tayyip Erdogan 
+      2  Recep 
+      2  Rabiya Al-Adawiya 
+      2   Prlic 
+      2   Pervez Musharraf 
+      2   Pascal Canfin 
+      2  Oussama Ben Laden 
+      2   Nicolas Tiangaye 
+      2   Mustapha Mahmoud 
+      2   Mokhtar Belmokhtar 
+      2   Mohammad Waseem 
+      2   Mara Salvatrucha 
+      2  Lee Rigby 
+      2   Le Drian 
+      2  Kiril Rachkov 
+      2   Kiril Rachkov 
+      2  Kim Kyung-hui 
+      2  Kim Il-sung 
+      2   Juan Maria Bordaberry 
+      2   José Mujica 
+      2   Joe Biden 
+      2   Jaron 
+      2   Jadranko Prlic 
+      2   Idriss Déby Itno 
+      2   Hollande 
+      2   Holder 
+      2  Hitler 
+      2  Hakimullah Mehsud 
+      2   François Bozizé 
+      2   Fausto Valdiviezo 
+      2   Eric Holder 
+      2   Charlie Beck 
+      2  Charles Taylor 
+      2   Charles Taylor 
+      2   Bülent Arinç 
+      2   Bruno Mestdagh 
+      2   Berlusconi 
+      2  Barack Obama 
+      2  Bangui-M' Poko 
+      2   Arinç 
+      2  Angela Merkel 
+      2   Abdullah Gül 
+      2   Abdoulaye Touré 
+      2   Abdi Farah Shirdon Said 
+      1   Zomer 
+      1  Zeke Johnson 
+      1   Yusuf Raza Gilani 
+      1   Yousuf Raza Gilani 
+      1   Volen Siderov 
+      1   Vojislav Seselj 
+      1   Tom Menino 
+      1   Timothy McVeigh 
+      1   Timothy Alben 
+      1   Thomas Boni Yayi 
+      1   Thomas 
+      1  Tendai Biti 
+      1   Tendai Biti 
+      1   Tayyip Erdogan 
+      1   Tamerlan/NC 
+      1   Talat Massoud 
+      1   Sylvestre Yagouzou 
+      1  Sylvain Cypel 
+      1   Super Mario 
+      1   Slobodan Milosevic 
+      1   Siyad Barre 
+      1   Simon Anzibe 
+      1   Silvio Berlusconi 
+      1  Shahba Press 
+      1  Sevil Sevimli 
+      1  SESELJ Souffrant 
+      1   Sergueï Lavrov 
+      1   Serge Mucetti 
+      1   Serge K 
+      1   Sepetche 
+      1   Sébastien Pelissier 
+      1  San Quentin 
+      1   Sankei Shimbun 
+      1  Sam Mullet 
+      1  Samantha Lewthwaite 
+      1   Samantha Lewthwaite 
+      1   Salman Taseer 
+      1   Salim Saadi 
+      1   Saïd Derrough 
+      1  Sadr City 
+      1   Saddam Hussein 
+      1  Saad Hariri 
+      1   Ruslan Tsarni 
+      1   Roshonara Choudhry 
+      1   Robert Kitur 
+      1   RÉPUBLIQUE/NC 
+      1   Renate Künast 
+      1  Recep Tayyip 
+      1   Recep Tayyip 
+      1  Ratko Mladic 
+      1   Ratko Mladic 
+      1  Randy Quan 
+      1  Rami Abdel Rahmane 
+      1  Rajab Agouri 
+      1  Radovan Karadzic 
+      1  Rabiya/NC 
+      1   QU' AU MALI Mercredi/NC 
+      1   Quan 
+      1  Preet/NC 
+      1  PP Selim Ier 
+      1   Porfirio Lobo 
+      1  Pol Pot 
+      1   Pol_Pot 
+      1   Pierre Massia 
+      1   Phil Robertson 
+      1   Pervez/NC 
+      1  Pervez Musharraf 
+      1   Penn Station/NC 
+      1   Peer Steinbrück 
+      1  Pavel 
+      1  Paul Anthony Ciancia 
+      1   Paul Anthony Ciancia 
+      1   Patrick 
+      1   Park Geun-hye 
+      1   Oussama Ben Laden 
+      1  Oumeïni Ould Baba Akhmed 
+      1  Omar Al-Mokhtar 
+      1  Nuon Chea 
+      1   Nuevo Laredo 
+      1   Nouri Al-Maliki 
+      1  Noureldine Adam 
+      1   Norodom Suramarit 
+      1   Norodom Sihanouk 
+      1   Norodom Sihamoni 
+      1   Norbert Lammert 
+      1  Night Stalker 
+      1  New York 
+      1   New Age 
+      1   Nétanyahou 
+      1  N' Djamena 
+      1  Nawaz Sharif 
+      1   Nawaz_Sharif 
+      1   Natalie Faye Webb 
+      1  Nasr City 
+      1  Mustafa Kemal Atatürk 
+      1   Mujica 
+      1   M' Poko 
+      1  Mounzer Khaddam 
+      1   Mouammar/NC 
+      1   Mouammar Kadhafi 
+      1   Monti 
+      1  Monica Quan 
+      1   Momcilo Krajisnik 
+      1  Mokhtar Belmokhtar 
+      1  Moh Clichy 
+      1   Mohamoud 
+      1   Mohamed Osman Jawari 
+      1   Mohamed Moussa 
+      1  Mohamed Morsi 
+      1  Moatassem Kadhafi 
+      1   Mirtha/NC 
+      1  Michel Guay 
+      1   Michael Clarke 
+      1  Michael Adebolajo 
+      1   Mehmet Ayvalitas 
+      1   Mehdi Karoubi 
+      1  Martine Laroche-Joubert 
+      1   Mariana Mota/NC 
+      1  Mariana Mota 
+      1   Maria Macias Castaneda 
+      1  Mao Tsé-toung 
+      1   Manzoor Ali Shah 
+      1   Maliki 
+      1  Malala Yousafzai 
+      1  Malala/NC 
+      1  Mahmoud/NC 
+      1  Mahmoud Ahmadinejad 
+      1   Mahmoud_Ahmadinejad 
+      1   Magne Barth 
+      1   Macias 
+      1  Libya Al-Ahrar 
+      1   LIBÉRÉE FAIT FROID/NC 
+      1  Léon Blum 
+      1   Lelisa Desisa 
+      1   L'/DET Orient-Le Jour 
+      1  Laurent Fabius 
+      1  Lakhdar Brahimi 
+      1   Kristalina Gueorgieva 
+      1   Kim Sengupta 
+      1   Kim Kyung-hui 
+      1  Kim Jong 
+      1   Kim Il-Sung 
+      1   Kim Il-sung 
+      1  KIDAL Kidal 
+      1  Khieu Samphan/NC 
+      1   Khan 
+      1   Khaled Cheikh Mohammed 
+      1   Kenji Fujimoto 
+      1   Karim Lahidji 
+      1   Kamu Emekçileri Sendikalar Konfederasyonu 
+      1  KAMIKAZES ENCORE INCONNU/ADJ 
+      1  Kaing Guek Eav 
+      1   Kadhafi 
+      1   Julius Karangi 
+      1  Joseph Bahout 
+      1   Joseph Bahout 
+      1  Jorge Batlle 
+      1  Jong Song-taek 
+      1   John McCain 
+      1  John Kerry 
+      1   John Brennan 
+      1   Jeff Bauman 
+      1   Jean Samuel 
+      1  Jean-Marc Ayrault 
+      1  Jean Hélène 
+      1   Jean-Claude Antonetti 
+      1  Jang Song-taek 
+      1   Jang Song-taek 
+      1  Jang/NC 
+      1   Jang/NC 
+      1   James Thompson 
+      1  Jalisco Nouvelle/ADJ 
+      1   Jalal Al-Degheli 
+      1   Jabhat/NC 
+      1  Isaac Rageda 
+      1  In Hallil 
+      1  In Amenas 
+      1   Imran Khan 
+      1   Imad Abdul Azim 
+      1   Iftikhar Chaudhry 
+      1  Ieng Sary 
+      1   Hun Sen 
+      1   Human Rights Watch 
+      1   Hitler 
+      1   Hassan Rohani 
+      1   Hassan 
+      1   Hasan Akgol 
+      1  Harrison Ford 
+      1   Harald Kujat 
+      1  Haralan/NC 
+      1   Hakimullah Mehsud 
+      1   Gyorgy Busztin 
+      1   Guy Kodegue 
+      1   Guillermo Cedrez 
+      1  Guido Westerwelle 
+      1   Global Hawk 
+      1  Giza 
+      1  Gilles Paris 
+      1   Gilles Jaron 
+      1   Gille Jaron 
+      1   Ghislain Grésenguet 
+      1   Germaine Lindsay 
+      1   Gerardo Hernandez 
+      1   Gérard 
+      1   George Venizelos 
+      1  George Soros 
+      1  Front Al-Nosra 
+      1  Frank Sinatra 
+      1   Franjo Tudjman 
+      1  François Bozizé 
+      1   Fikret/NC 
+      1  Fausto Valdiviezo 
+      1   Evans 
+      1   Erdogan 
+      1   Ehsanullah Ehsan 
+      1   Edward Davis 
+      1   Dominic Casciani 
+      1   Djokhar A 
+      1   Dixon Osburn 
+      1   Dirk Niebel 
+      1   Dioncounda Traoré 
+      1  Dillavou 
+      1   Dillavou 
+      1   Dieter Graumann 
+      1  Dennis Rodman 
+      1   Denis Merklen 
+      1    de_Gaulle 
+      1   David Cameron 
+      1   Dar Dar 
+      1  Cornelius Vanderbilt 
+      1   Cornelius Vanderbilt 
+      1   Constanza Moreira 
+      1   Colin Powell 
+      1   Claude Verlon 
+      1   Ciancia 
+      1   Christopher Stevens 
+      1   Christopher Dorner 
+      1  Christopher Donner 
+      1  Cheik Oussama 
+      1   Carlos Calcagno 
+      1   Byron Baldeón 
+      1  Bruno Mestdagh 
+      1   Brennan 
+      1   Bowdish 
+      1  Bosnie 
+      1   Borderland Beat 
+      1   Bokassa Ier 
+      1   Boïko Borissov 
+      1   Blackwell 
+      1   Biljana Plavsic 
+      1   Bertrand Badie 
+      1  BERLUSCONI 
+      1  Benyoucef Benkhedda 
+      1  Benyamin Nétanyahou 
+      1  Ben Bella 
+      1  Benazir Bhutto 
+      1   Barack Obama 
+      1   Barack/NC 
+      1   Ban/NC 
+      1  Bangui Reportage 
+      1   Ban 
+      1  Baitullah Mehsud 
+      1   Awadh Al-Furjani 
+      1  Asif Ali Zardari 
+      1   Ashton 
+      1  ARMES CHIMIQUES 
+      1   Antony Todorov 
+      1   Antonio Villaraigosa 
+      1   Antonetti 
+      1   Antoine Mbao Bogo 
+      1   Anti-Slavery International 
+      1   Ante Gotovina 
+      1  Amir Mohebbian 
+      1   Amadou Toumani Touré 
+      1   Allah/NC 
+      1  Allah Akbar 
+      1   Allah Akbar 
+      1   Ali Zeidan 
+      1  Alija Izetbegovic 
+      1   Ali Bichara 
+      1   Ali Baboro 
+      1   Alexandre/NC 
+      1  Alain Juppé 
+      1   Akli Gasmi 
+      1   Aït Chebib 
+      1   Aidan McQuade 
+      1   Ahmad Salamatian 
+      1  Abou Ghaith 
+      1   Abou Gaith 
+      1  Abbas Khan 
+      1   Abass Mahamdou 
+      1   Abacar Zacaria 

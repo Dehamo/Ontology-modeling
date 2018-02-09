@@ -1,0 +1,244 @@
+------------------------
+PERSONNES
+------------------------
+     13   Bertrand Badie 
+      9  Ramzan Kadyrov 
+      9   Charles Taylor 
+      7  Tuol Sleng 
+      7   Ramadan 
+      7  Charles Taylor 
+      5   Oumar Israïlov 
+      5  Gilad Shalit 
+      5   David Cameron 
+      5   Cellou Dalein Diallo 
+      4   Timochenko 
+      4   Nathaniel Rothschild 
+      4   Mahmoud Ahmadinejad 
+      4   Jean-Pierre Bemba 
+      3   Sarkozy 
+      3   Ramzan Kadyrov 
+      3   Otunbaeva 
+      3   Nicolas Sarkozy 
+      3   Moussavi 
+      3  David Cameron 
+      3   Bush 
+      3   Benyamin Nétanyahou 
+      3  Barack Obama 
+      2   Zardari 
+      2   Raul Castro 
+      2   Poutine 
+      2   Michelle Bachelet 
+      2  Mehdi Karoubi 
+      2   McChrystal 
+      2   Mariam Charipova 
+      2   Luiz Eduardo Soares 
+      2   Lori Berenson 
+      2   Le Huérou 
+      2  José Padilha 
+      2   José Padilha 
+      2   Jean-Bertrand Aristide 
+      2   Javad Etaat 
+      2   Headley 
+      2   Hamid Karzaï 
+      2   Hamadi Moghaddam 
+      2   Hadad Addel 
+      2   François Duvalier 
+      2   François Bizot 
+      2  Foday Sankoh 
+      2   Dmitri Medvedev 
+      2   Dick Cheney 
+      2   Diallo 
+      2  Choeung Ek 
+      2   Cameron 
+      2   Artour Kourmakaev 
+      1  Zahra Rahnavard 
+      1   Zahra Rahnavard 
+      1  Yoweri Museveni 
+      1   Yossi Kuperwasser 
+      1  Yoel Shalit 
+      1   Yoel Shalit 
+      1   Xristoforos Vernardakis 
+      1   William Tolbert 
+      1   Vladimir Poutine 
+      1  Viktor Ianoukovitch 
+      1   Victoire Ingabire 
+      1   Velupillai Prabhakaran 
+      1  Ulf Henricsson 
+      1   Tzvetan Todorov 
+      1  Toussaint/NC 
+      1  Toussaint Louverture 
+      1   Toussaint/DET Louverture 
+      1   Tel 
+      1  Tariq Ramadan 
+      1   Tariq Ramadan 
+      1   Talabani 
+      1   Sydney Bechet 
+      1   Steven Rapp 
+      1  Stanley McChrystal 
+      1   Stanley McChrystal 
+      1  Srah Srang 
+      1   Sisi Pafinou 
+      1  Siaka Sangaré 
+      1  Shlomo Artzi 
+      1   Shakhman Akboulatov 
+      1   Shah Mehmood Qureshi 
+      1   Sergueï Chirgouïev 
+      1   Sékou Resco Camara 
+      1   Sékouba Konaté 
+      1   Sebastian Pinera 
+      1  Satyajit Ray 
+      1   Sangaré 
+      1   Samuel K 
+      1  Roza Otunbaeva 
+      1   Rothschild and Sons 
+      1   Rothschild 
+      1  Rony Brauman 
+      1   Ronnie Brunswijk 
+      1   Roman Popkov 
+      1  Robinson Crusoé 
+      1  Raul Castro 
+      1   Ranil Wikramasinghe 
+      1   Pol Pot 
+      1   Pete Hoekstra 
+      1   Paulo Paranagua 
+      1   Paulo/NC 
+      1   Paul Kagamé 
+      1   Paul Bhagwandas 
+      1  Pat Robertson 
+      1   Palaniappan Chidambaram 
+      1  Oussama Al-Noujaifi 
+      1   Oussama Al-Noujaifi 
+      1   Osvaldo Martinez 
+      1  Omar Farouk Abdulmutallab 
+      1   Obama 
+      1   Nouri/NC 
+      1  Nouri Al-Maliki 
+      1   Noam Shalit 
+      1  New York 
+      1   Newt Gingrich 
+      1  New/NC 
+      1  New Delhi 
+      1   New Delhi 
+      1  Nate Thayer 
+      1  Natalia Estemirova 
+      1   Natalia Estemirova 
+      1   Moshé Negbi 
+      1  Mitzpe Hila 
+      1  Mir Hossein Moussavi 
+      1   Mircea Eliade 
+      1   Mikhaïl Beketov 
+      1  Michelle Bachelet 
+      1   Meir Lau 
+      1   Medvedev 
+      1   Mayer Amschel 
+      1   Matt Waldman 
+      1   Mark/NC 
+      1   Marcelo Rivera 
+      1   Marcelo Freixo 
+      1   Malinkés 
+      1  Mahinda Rajapakse 
+      1   Magomedali Vagabov 
+      1   Luis Marill 
+      1   Louise Arbour 
+      1  Lori Berenson 
+      1  Lord Jacob 
+      1   Lia Basakaki 
+      1   Leclerc 
+      1  Laurent-Désiré Kabila 
+      1   Konstantin Fetissov 
+      1   Karoubi 
+      1   Kadyrov 
+      1   Juvénal Habyarimana 
+      1  Joseph Kabila/NC 
+      1   Joseph Kabila 
+      1   Jorge Palou 
+      1   John Kennedy 
+      1  Joe Biden 
+      1  Jean-Pierre Boyer 
+      1  Jean-Pierre Bemba 
+      1   Jean-Pierre 
+      1   Jeannot Bemba Saolana 
+      1   Jean-Jacques Dessalines 
+      1   Jean-François 
+      1  Jean Filliozat 
+      1   Jean-Claude Duvalier 
+      1   Jean-Claude 
+      1   Jean Boulbet 
+      1  Jacques Chirac 
+      1   Jacqueline Van Rysselberghe 
+      1  Ioulia Timochenko 
+      1   Ioulia Timochenko 
+      1   Human Rights Watch 
+      1   Hugo Chavez 
+      1   Holbrooke 
+      1  Henry Kissinger 
+      1  Hector Palacios/NC 
+      1  Harald Mueller 
+      1   Habyarimana 
+      1   Guy Wyser-Pratte 
+      1   Guy 
+      1   Gretchen Peters 
+      1   Grashoff 
+      1   Gitta Sereny 
+      1  Gioia Tauro 
+      1   Gilles Kepel 
+      1  German Bakery 
+      1  George Mitchell 
+      1   George Bush 
+      1   Gay Krant 
+      1   François Bozizé 
+      1   Foday Sankoh 
+      1  Fidel Castro 
+      1   Felipe Calderon 
+      1   Ezzedine Al-Qassam 
+      1   Evguenia Tchirikova 
+      1   Ehoud Barak 
+      1   Don Pedro 
+      1   Donald Tusk 
+      1   Dominique 
+      1  Dokou Oumarov 
+      1   Doe 
+      1   Djannet Abdoullaeva 
+      1  Djalal Talabani 
+      1  Desi Bouterse 
+      1   Desi Bouterse 
+      1    de_Gaulle 
+      1   David Petraeus 
+      1  David Coleman Headley 
+      1   Crowley 
+      1  Christophe Colomb 
+      1   Christophe 
+      1   Chidambaram 
+      1   Cheney 
+      1   Charlie Parker 
+      1   Charles X 
+      1   Charles McArthur Taylor 
+      1  Charlemagne Péralte 
+      1   Chapour Kazemi 
+      1   Caracas-La Havane 
+      1   Calderon 
+      1   Brad/DET Woodhouse 
+      1  Bois Caïman 
+      1   Benoît Miribel 
+      1  Bayram Balci 
+      1   Barack Obama 
+      1   Bachelet 
+      1   Ayiva Saibou 
+      1  Askar Akaev 
+      1  Asif Ali Zardari 
+      1   Asif Ali Zardari 
+      1  Artour Kourmakaev 
+      1   Aristide 
+      1   Aris Kontizas 
+      1   Anthony Blinken 
+      1  Anne/NC 
+      1  Anne Le/DET Huérou 
+      1  Anne 
+      1  Ange-Félix Patassé 
+      1   Anders Fogh Rasmussen 
+      1  Alpha Condé 
+      1   Alan Garcia 
+      1   Akboulatov 
+      1   Ahmed Aboutaleb 
+      1   Aboutaleb 
+      1   Abbas 

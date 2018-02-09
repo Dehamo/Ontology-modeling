@@ -1,0 +1,1317 @@
+------------------------
+COMPAGNIES
+------------------------
+     18   EI 
+     12  EI 
+      7  CPI 
+      6  Amnesty 
+      6   Amnesty 
+      5  Amnesty International 
+      5  Al-Qaida 
+      4   Rabin 
+      4   Habré 
+      4  DDS 
+      4   Al-Aqsa 
+      4  AGK 
+      3  Twitter 
+      3   Semmama 
+      3  RDC 
+      3   Mandela 
+      3  LRA 
+      3  Habré 
+      3   Ennahda 
+      3   Baga 
+      3  AKP 
+      2  Westgate 
+      2   Stock 
+      2   SS 
+      2   Schengen 
+      2  Palasset 
+      2   Ntumi 
+      2  Nord-Est 
+      2  Morgan 
+      2  Mercedes 
+      2   Diffa 
+      2   Barkhane 
+      2   Abdirashid 
+      1  Zinder 
+      1   Zénobie 
+      1  Yves Duteil 
+      1   Yalda 
+      1   Vérité 
+      1  UPC 
+      1   UPC 
+      1   Umar 
+      1   UA 
+      1   Tupak Shakur 
+      1  Tsarnaev 
+      1   Tchétchène 
+      1   Synpics 
+      1  SVT 
+      1  Stock 
+      1   Soubresaut 
+      1   Sokimo 
+      1  Sipri 
+      1   Shirel 
+      1  Sassou-Nguesso 
+      1   Sassou-Nguesso 
+      1  Sambisa 
+      1   Salman 
+      1  Rolls-Royce 
+      1  Renault 
+      1   Randgold Resources 
+      1  Qalandia 
+      1   Poutine 
+      1   PKK 
+      1  Piscine 
+      1  PDP 
+      1   Paix 
+      1   Ouardia 
+      1  Orange 
+      1   ONG 
+      1  Omate 
+      1  Okwui 
+      1  Okba 
+      1   Oberoi 
+      1  NTV 
+      1   Nissan Slomiansky 
+      1   Nimroud 
+      1   Nétanyahou 
+      1   Najeeb 
+      1   NAACP 
+      1  Multiple 
+      1   Morgan 
+      1   Montaigne 
+      1  Monguno 
+      1   Missing 
+      1   Minader 
+      1   MHP 
+      1   Métaux 
+      1  Mara Barrio 
+      1  Mandela 
+      1  Mahomet 
+      1  Lashkar-e-Taiba 
+      1   Là-haut 
+      1   Kursunlu 
+      1  Knesset 
+      1   Ki 
+      1  KG Productions 
+      1  Kash 
+      1   Kadhafi 
+      1  JTF 
+      1    Jisr_al-Choughour 
+      1   Intifada 
+      1   International 
+      1   IDC 
+      1  Hugo 
+      1  Hissène Habré 
+      1   Hissène Habré 
+      1   Hissène 
+      1  Hattatba 
+      1   Harakat_Al-Chabab_Al-Moudjahidin 
+      1  Hamas 
+      1   Haaretz 
+      1   Gyöngyöspata 
+      1   Goukouni Oueddeï 
+      1   Gold 
+      1   Godane 
+      1  Ghilas 
+      1  Gaza 
+      1   FRPI 
+      1  Fotokol 
+      1   Flamands 
+      1   FIDH 
+      1  FC Ouakam 
+      1  Faure 
+      1  Facebook 
+      1   Facebook 
+      1   Expo 
+      1  Eschyle 
+      1   Epervier 
+      1   Emanuel 
+      1   El Manar I 
+      1  Ellen 
+      1   Eiffel 
+      1   Editorial 
+      1   Duale 
+      1   Dragunov 
+      1   Djokhar Tsarnaev 
+      1   Djokhar 
+      1  Diyarbakir 
+      1   Diyarbakir 
+      1   Dilem 
+      1  Davidson 
+      1  Damaturu 
+      1  Dahabshiil 
+      1   Dahabshiil 
+      1   Dabiq 
+      1   D 
+      1   Congo 
+      1  CNN 
+      1   CNN 
+      1   CNDD-FDD 
+      1   Cinq 
+      1   CHP 
+      1  Chibok 
+      1   Charb 
+      1   CEP 
+      1   Celeste 
+      1   CEDH 
+      1  Cartooning 
+      1   CAE 
+      1   Burkina 
+      1  Buhari 
+      1   Buhari 
+      1   BSIR 
+      1   Brink 
+      1   Bravo 
+      1  Bosso 
+      1  Boko Haram 
+      1   Boko 
+      1   Belmokhtar 
+      1   Belga 
+      1   Beaucoup 
+      1   BDS 
+      1  Bastia 
+      1   Barthes 
+      1  Barkhane 
+      1   Barclays 
+      1   Banro 
+      1   Astra 
+      1   Assaad 
+      1   ARDR 
+      1   AQMI 
+      1   Aprodh 
+      1  AP 
+      1   Ansaru 
+      1    Ansar_Beït_Al-Maqdis 
+      1    Ansar_al-Charia 
+      1  AngloGold Ashanti 
+      1   Anatolie 
+      1   Anakaza 
+      1   AMISOM 
+      1   Amisom 
+      1   Amisi 
+      1  Amazonie 
+      1   Al-Raoudh 
+      1   Al-Qaida 
+      1   Al-Mourabitoun 
+      1   Al-Manar 
+      1   Al-Chabab 
+      1  Al-Aqsa 
+      1  Ajnad Al-Khilafah 
+      1   AGK 
+      1   Adamawa 
+      1   Abou_Bakr_Al-Baghdadi_n’ 
+      1   Abd-El-Kader 
+      1  Abdelkader 
+      1  Abdallah 
+      1   Abdallah 
+------------------------
+LIEUX
+------------------------
+     53  Nigeria
+     37  France
+     32  Israël
+     31  Afrique
+     21  Somalie
+     21  Dakar
+     21  Burundi
+     19  Tchad
+     19  Syrie
+     17  Cameroun
+     16  Libye
+     15  Tunisie
+     15  Sénégal
+     14  Turquie
+     14  Jérusalem
+     12  Paris
+     12  Niger
+     12  Maiduguri
+     11   Israël
+     11  Europe
+     10  Etats-Unis
+     10  Abuja
+      9  Yémen
+      9  Diffa
+      9  Bujumbura
+      9  Algérie
+      8  Tel-Aviv
+      8  Suède
+      8  Mossoul
+      8  Al-Qaida
+      8   Afrique
+      7  Yarmouk
+      7  Tunis
+      7   Tchad
+      7  Palmyre
+      7  Garissa
+      7  Arabie
+      7  Ankara
+      7  Allemagne
+      6  Rwanda
+      6  Kenya
+      6  Kasserine
+      6  Iran
+      6  Gambie
+      5  Sanaa
+      5  République
+      5  Pakistan
+      5  Mogadiscio
+      5  Cisjordanie
+      5  Boston
+      5  Amérique
+      4  Venise
+      4  Salvador
+      4   Paris
+      4   Ouganda
+      4   Nigeria
+      4  Maroua
+      4  Londres
+      4  Lomé
+      4   Irak
+      4  Irak
+      4  Iguala
+      4  Genève
+      4  Chine
+      4  Centrafrique
+      4  Borno
+      3  Yaoundé
+      3  Verviers
+      3  Trollhättan
+      3  Togo
+      3  Sud-Kivu
+      3  Royaume-Uni
+      3  Rabin
+      3   Pékin
+      3  Ouganda
+      3  Nairobi
+      3  Mukungwe
+      3  Moyen-Orient
+      3  Marseille
+      3  Lyon
+      3  Kampala
+      3  Jérusalem-Est
+      3   Iran
+      3  Inde
+      3  Hongrie
+      3  Grozny
+      3  Danemark
+      3  Damas
+      3  Corée
+      3  Copenhague
+      3  Congo
+      3  Conakry
+      3  Chibok
+      3  Buhari
+      3  Brazzaville
+      3  Bosso
+      3  Banjul
+      3  Baga
+      3  Al-Qaïda
+      3   Algérie
+      3  Alger
+      3  Abdallah
+      2   Washington
+      2  Tulkarem
+      2  Tsarnaev
+      2  Troie
+      2  Toronto
+      2  Tel
+      2  Téhéran
+      2  Tanger
+      2  Sud-Libye
+      2  Seigneur
+      2  Russie
+      2  Rize
+      2   Riyad
+      2  Pretoria
+      2  Occident
+      2  Nord-Est
+      2   Niamey
+      2  Niamey
+      2  Moscou
+      2  Michoacan
+      2   Mexique
+      2  Mayama
+      2   Libye
+      2  Liban
+      2   Kaduna
+      2  Kaduna
+      2  Hamas
+      2  Golfe
+      2  Faya-Largeau
+      2  États-Unis
+      2  Dubaï
+      2  Coran
+      2  Constantinople
+      2  Cizre
+      2  Chebaa
+      2   Burundi
+      2  Bunia
+      2  Bukavu
+      2  Bruxelles
+      2  Berlin
+      2  Belgique
+      2  Bauchi
+      2  Bardo
+      2  Baguida
+      2  Alep
+      1  Ypres
+      1   Yémen
+      1   Yarmouk
+      1  Yalda
+      1  XIVe
+      1  Wassaïa
+      1  Washington
+      1  Walikale
+      1  Waht
+      1  Vrede
+      1  Vincennes
+      1  Vienne
+      1   Venise
+      1   Uvira
+      1  URSS
+      1   Ukraine
+      1  Ukraine
+      1  Trondheim
+      1  Toulouse
+      1  Temple
+      1  Tanzanie
+      1  Tadmor
+      1    Syrie_Le_crash
+      1   Syrie
+      1   Suède
+      1  Sud-Africains
+      1  Staline
+      1  Soumouna
+      1  Souleymane
+      1  Soudan
+      1   Somalie
+      1   Sirnak
+      1  Shekau
+      1  Serbie
+      1   Sanaa
+      1  San
+      1  Salman
+      1  Saint-Michel
+      1  Sainte-Sophie
+      1  Sahel
+      1  Saada
+      1   Russie
+      1  Ruqya
+      1  rue
+      1  Roszke
+      1  Riyad
+      1  Rivonia
+      1  Ramzan
+      1  Ramallah
+      1  Ramadi
+      1  Rabia
+      1  Pyongyang
+      1  Proche-Orient
+      1  Potchefstroom
+      1   Port-au-Prince
+      1   Peker
+      1  Pays-Bas
+      1   Palmyre
+      1  Oued
+      1  Ottawa
+      1  Oslo
+      1  Orientale
+      1  Omate
+      1   Ntumi
+      1  Ntumi
+      1  Nourredine
+      1  Norvège
+      1  Nicaragua
+      1  New
+      1  Neria
+      1   Nasrallah
+      1  Naplouse
+      1  Musaga
+      1   Mossoul
+      1  Morelia
+      1   Mogadiscio
+      1  Minoutka
+      1  Mexique
+      1  Mexico
+      1  Melle
+      1  Massachusetts
+      1  Maroc
+      1  Mambasa
+      1  Mali
+      1  Malcolm
+      1  Mahomet
+      1  Madrid
+      1  Los
+      1  Likoud
+      1  Lashkar-e-Taiba
+      1   Lagos
+      1  Lagos
+      1  Labrak
+      1  Kurdistan
+      1  Konya
+      1  Knesset
+      1  Kirghizistan
+      1  Kinshasa
+      1  Kinneret
+      1  Kilo-Moto
+      1  Kidal
+      1  Kibali
+      1  Kano
+      1   Kampala
+      1  Kamituga
+      1  Kabylie
+      1   Jos
+      1  Jordanie
+      1  Johannesburg
+      1   Jérusalem
+      1  Jamaat-ud-Dawa
+      1  Jamaame
+      1  Ituri
+      1  Isère
+      1  Irumu
+      1  Idleb
+      1  Homs
+      1  Hitler
+      1  Haye
+      1   Hatra
+      1  Harvard
+      1  Hargeisa
+      1  Haïti
+      1  Habré
+      1   Habitant
+      1  Gwoza
+      1   Guinée
+      1  Guatemala
+      1  Grande-Bretagne
+      1   Ghana
+      1  Ghana
+      1  Gazawa
+      1  Gaza
+      1  Gao
+      1  Gamboru
+      1   Formées
+      1  Fédération
+      1  Extrême-Nord
+      1  Ethiopie
+      1   Etats-Unis
+      1   Erdogan
+      1  Erdogan
+      1  Erbil
+      1   Ennemis
+      1   Ellipse
+      1   Egypte
+      1  Douma
+      1   Diyarbakir
+      1  Diyarbakir
+      1  Dire
+      1  Dikwa
+      1  Derna
+      1  David
+      1   Damaturu
+      1  Damaturu
+      1  Daech
+      1  Cyrénaïque
+      1  Csongrad
+      1   Conakry
+      1  Colobane
+      1  CNDD-FDD
+      1   Chibok
+      1  Chatham
+      1   Châtelet
+      1  Charlie
+      1  Charleston
+      1  Charb
+      1  Chaambi
+      1  Ceylanpinar
+      1   Ceux-là
+      1   Cameroun
+      1  Buruo
+      1  Bujumbra
+      1  Bronx
+      1  Brésil
+      1   Brazzaville
+      1  Bosniaques
+      1  Bombay
+      1  Bible
+      1  Beyrouth
+      1  Bethléem
+      1  Besiktas
+      1   Belgique
+      1   Bauchi
+      1  Bangui
+      1  Bamako
+      1  Bahia
+      1   Avant
+      1  Aubja
+      1  Atlanta
+      1  Assad
+      1  Ashdod
+      1  Arusha
+      1  Ariha
+      1   Arabie
+      1  Aouzou
+      1   Ankara
+      1  AngloGold
+      1  Ambassadeur
+      1  Al-Thori
+      1   Al-Targui
+      1   Al-Qaida
+      1   Allemagne
+      1   Al-Bayane
+      1  Aïda
+      1  Afghanistan
+      1  Adjibo
+      1  Adiala
+      1  Aden
+      1   Abuja
+------------------------
+ORGANISATIONS
+------------------------
+     15  DDS 
+     10  Union africaine 
+      9  Parti 
+      8  LRA 
+      8  Cour pénale internationale 
+      6  ONU 
+      5  Union européenne 
+      5  Organisation 
+      5   ONU 
+      5  EI 
+      5  Conseil 
+      4  Union 
+      4  ONG 
+      4  Observatoire syrien 
+      4  MNJTF 
+      4  Maghreb islamique 
+      4  Human Rights Watch 
+      3  PKK 
+      3  OSDH 
+      3  Nations unies 
+      3  Monde 
+      3   Le Monde 
+      3  Institut 
+      3  Assemblée nationale 
+      2   Unesco 
+      2  Soir 
+      2  Sénat 
+      2  Sécurité 
+      2  RDC 
+      2  Parti républicain 
+      2   Mouvement 
+      2  Kinanira 2 
+      2   Empire 
+      2   DDS 
+      2  Commission nationale 
+      2  Commission européenne 
+      2  Commission 
+      2  Caroline 
+      2   AGK 
+      2  Agence juive 
+      2  AFP 
+      1   Zaïrois 
+      1   Yedioth 
+      1  UNRWA 
+      1   UNRWA 
+      1  Université norvégienne 
+      1  Union sioniste 
+      1   Union sioniste 
+      1  Unesco 
+      1   UGTT 
+      1  Tuta 
+      1   TSA 
+      1   Terminator 
+      1  Syndicat national 
+      1  Somaliland 
+      1  Sénat local 
+      1  Sacrifié 
+      1   RTL 
+      1  Rhodésie 
+      1  Réseau national 
+      1  PVV 
+      1  Programme 
+      1   PNR 
+      1   PKK 
+      1  Parti populaire progressiste 
+      1  Parti démocratique populaire 
+      1  Parti démocratique 
+      1  Parti communiste français 
+      1  Parlement 
+      1   ONG Human Rights Watch 
+      1   ONG 
+      1  OCAM 
+      1  Observatoire 
+      1  Nouveau Monde 
+      1  Musée national 
+      1   Mouvement somalien 
+      1  Mouvement national somali 
+      1  Monde Afrique 
+      1  Médecins 
+      1   Massinissa 
+      1  L’ Observateur 
+      1   Libération 
+      1  Le Monde 
+      1   JUD 
+      1  Jerusalem 
+      1   International 
+      1  Institut français 
+      1  IIIe Reich 
+      1   Hürriyet 
+      1   Human Rights Watch 
+      1  HRW 
+      1   HRW 
+      1  HDP 
+      1  HCR 
+      1  Haram 
+      1  Groupe d’ experts 
+      1  Front national 
+      1  Foyer juif 
+      1  Fonds Akhmad-Kadyrov 
+      1  FMI 
+      1  Financial 
+      1  FIDH 
+      1  Fédération 
+      1   FARDC 
+      1  Ekaterina 
+      1   EI 
+      1  Ecole 
+      1   Disparus 
+      1  Direction générale 
+      1  Direction 
+      1  Die 
+      1  DGSE 
+      1  Daily 
+      1  D 
+      1  Croix 
+      1  Cour internationale 
+      1  Cour fédérale 
+      1  Cour européenne 
+      1  Council 
+      1  Conseil supérieur 
+      1  Conseil national 
+      1  Conseil européen 
+      1  Conseil démocratique kurde 
+      1  Conseil consultatif 
+      1  Conseil central 
+      1  Commission électorale nationale indépendante 
+      1  Commission africaine 
+      1  Comité union 
+      1  Comité international 
+      1  CNDD-FDD 
+      1  Club 
+      1   CIRGL 
+      1  Chambre 
+      1  CEP 
+      1  Centre Pompidou 
+      1  Centre international 
+      1  Canard Enchainé 
+      1   CAE 
+      1  Bundeswehr 
+      1  Bundestag 
+      1  Boston Globe 
+      1  Bosso 
+      1  Black 
+      1   Belga 
+      1  Association mutuelle israélite argentine 
+      1   Associated 
+      1  Assemblée générale 
+      1  AP L’ 
+      1  ANC 
+      1   ANC 
+      1  AKP 
+      1   AKP 
+      1  AGK 
+      1  Agence française 
+      1  Agence algérienne 
+      1   AFP 
+------------------------
+PERSONNES
+------------------------
+     84  Boko Haram 
+     22   Boko Haram 
+     16   Hissène Habré 
+     15  N’ Djamena 
+     13  Charlie Hebdo 
+     13   Benyamin Nétanyahou 
+     11   Pierre Nkurunziza 
+      9   Nétanyahou 
+      9   Muhammadu Buhari 
+      9   Dominic Ongwen 
+      7   Saleh Younous 
+      7   Dylann Roof 
+      6  Hissène Habré 
+      6   Bosco Ntaganda 
+      5   Salem Brahimi 
+      5  Ramzan Kadyrov 
+      5   Nelson Mandela 
+      5   Massinissa Selmani 
+      5   Erdogan 
+      5  Bosco Ntaganda 
+      4   Rivlin 
+      4   Michel 
+      4   Mahmoud Abbas 
+      4   Leyla Bouzid 
+      4   Idriss Déby 
+      4   Denis Sassou-Nguesso 
+      4  Bachar Al-Assad 
+      3   Younous 
+      3  Yitzhak Rabin 
+      3   Servando Gomez 
+      3   Ségolène Royal 
+      3   Sedat Peker 
+      3  Reed Brody 
+      3   Reed Brody 
+      3   Recep Tayyip Erdogan 
+      3   Ramzan Kadyrov 
+      3   Priscilla Sadatchy 
+      3  Pierre Nkurunziza 
+      3   Obama 
+      3   John Kerry 
+      3   Habré 
+      3  Goodluck Jonathan 
+      3   Goodluck Jonathan 
+      3   Gilles Yabi 
+      3   Geert Wilders 
+      3  Dominic Ongwen 
+      3   Djokhar Tsarnaev 
+      3   Buhari 
+      3   Boko/NC 
+      3  Alpha Condé 
+      3   Ahmet Davutoglu 
+      3   Abdirashid Duale 
+      2   Zakaria Bakir 
+      2   Yahya Jammeh 
+      2  Vladimir Poutine 
+      2   Souleymane Guengueng 
+      2  Sidi Bouzid 
+      2   Saad Benkhelif 
+      2   Reuven Rivlin 
+      2  Recep Tayyip Erdogan 
+      2   Philippe 
+      2   Petra Laszlo 
+      2   Ongwen 
+      2   Nkurunziza 
+      2  New York 
+      2  Nelson Mandela 
+      2   N’ Djamena 
+      2   Naftali Bennett 
+      2   Naama Henkin 
+      2   Moché Lewin 
+      2   Matt Bryden 
+      2   Manuel Valls 
+      2   Manuel/NC 
+      2   Mahamadou Karidjo 
+      2   Macky Sall 
+      2   Ken Menkhaus 
+      2   Judy Clarke 
+      2  Joseph Kony 
+      2   José Luis Abarca 
+      2  John Kerry 
+      2   Jean-Pierre Palasset 
+      2   Islam Oumarpachaev 
+      2  Iga Barrière 
+      2   Idriss Déby Itno 
+      2   Hisham Aidi 
+      2   Hassan Cheikh Mohamoud 
+      2  Hafez Al-Assad 
+      2   Gomez 
+      2   Godefroid Niyombare 
+      2  Global Witness 
+      2   François-Xavier Fauvelle 
+      2   François Patuel 
+      2   François Hollande 
+      2  Faure Gnassingbé 
+      2   Faure Gnassingbé 
+      2   Eric Dupuy 
+      2  Eagle Square 
+      2  Desmond Tutu 
+      2   Chris Gunness 
+      2  Benyamin Nétanyahou 
+      2   Ben Ali 
+      2   Basel Ghattas 
+      2   Barack Obama 
+      2  André Brink 
+      2   Abubakar Shekau 
+      2  Aboubakar Shekau 
+      2  Abdel Rahmane Abdallah 
+      2   Abakachi Djato 
+      1   Zakiur Rehman Lakhvi 
+      1   Zakaria Fadoul Khidir 
+      1   Yoweri Museveni 
+      1   Yohan/NC 
+      1   Yitzhak Rabin 
+      1   Yitzhak Aharonovitch 
+      1   Yigal Palmor 
+      1  Yesh Atid 
+      1   Yekbun Eksen 
+      1   Yehuda Weinstein 
+      1  Yehuda Glick 
+      1   Yassine Ayari 
+      1  Yanis Koussim 
+      1   Yalçin Akdogan 
+      1  Yahya Jammeh 
+      1  Yad Vashem 
+      1   William Weinreb 
+      1  Wesam Sabaaneh 
+      1   Wesam Sabaaneh 
+      1   Welli Nzitonda 
+      1   Vladimir Vladimirovitch Poutine 
+      1   Vitaly Fedchenko 
+      1   Viktor Orban 
+      1  Victor Ochen 
+      1   Veysel Eroglu 
+      1   Valls 
+      1   Uri Ariel 
+      1   Uhuru Kenyatta 
+      1   Tzipi Hotovely 
+      1  Tierra Caliente 
+      1   Thomas Landman 
+      1  Thione Seck 
+      1  Theodore Kaczynski 
+      1   Tansu Ciller 
+      1  Tamerlan/NC 
+      1  Talaat Pacha 
+      1   Talaat Pacha 
+      1   Tahir Elçi 
+      1   Sydney Corcoran 
+      1   Steven Mellin 
+      1  Stephen King 
+      1   State Building 
+      1   Souleymane/NC 
+      1   Sophie Nivelle-Cardinale 
+      1   Solberg 
+      1  Slobodan 
+      1  Sissi Probablement 
+      1   Sinjari 
+      1   Sidya Touré 
+      1  Siad Barre 
+      1   Siad Barre 
+      1  Shin Beth 
+      1  Selahattin Demirtas 
+      1  Sedat Peker 
+      1  Sciences Po 
+      1   Sandor Toro 
+      1  Samir Kuntar 
+      1  Sami Al-Jaar 
+      1   Salvador Sanchez Ceren 
+      1   Salman 
+      1   Saleh Youssef 
+      1  Saleh Younous 
+      1   Rutger Fortuin 
+      1  Rose Lokissim 
+      1   Rose Lokissim 
+      1   Roch/ET 
+      1   Robert Hissein Gambier 
+      1   Rino Tzror 
+      1  Research Center 
+      1   Réouven Rivlin 
+      1   Regardez Israël 
+      1   Reed/ET 
+      1   Raphael Lemkin 
+      1   Ralph Rugoff 
+      1  Rached Ghannouchi 
+      1  Rabin 
+      1   Pineda 
+      1   Pierre-Louis Opont 
+      1   Pierre Laurent 
+      1   Pierre Hazan 
+      1  Pierre Galopin 
+      1   Pierre Buyoya 
+      1  Peter Neumann 
+      1   Paul Biya 
+      1   Parler 
+      1   Oumar Israïlov 
+      1   Oren Hazan 
+      1  ONG Global Witness 
+      1   Olukolade 
+      1  Olivier Ray 
+      1   Okot Odhiambo 
+      1   Okba Ibn Nafaa 
+      1  Okba 
+      1   Noumen Mhamdi 
+      1   Nobel/NC 
+      1   Noah Klieger 
+      1  Njaga Jagne 
+      1   Niyombare 
+      1   Niklas Hallgren 
+      1   Nicolas Krameyer 
+      1   Nickolay Mladenov 
+      1  New Delhi 
+      1   Nétanyahou s’ 
+      1   Nétanyahou dimanche/NC 
+      1   Netanyahou 
+      1   Nelson/NC 
+      1   Nazmi Gür 
+      1   Nationaldemokratische Partei Deutschlands 
+      1   Narendra Modi 
+      1   Mutual Assured Destruction 
+      1  Mustapha Ourad 
+      1   Multinational Joint Task/NC 
+      1  Muhammadu Buhari 
+      1   Moustafa Khalifé 
+      1   Mouhamed Guèye 
+      1  Mouammar Kadhafi 
+      1   Moshe Yaalon 
+      1  Moncef Marzouki 
+      1   Mokhtar Belmokhtar 
+      1   Mohammad Sarmini 
+      1  Mohamed Youssouf 
+      1   Mohamed Sghaier Saihi 
+      1  Mohamed Merah 
+      1  Mohamed Mbougar Sarr 
+      1   Mohamed Mbougar Sarr 
+      1  Mohamed Mbougar 
+      1   Mohamed Ben Salman 
+      1   Mohamed Ben Nayef 
+      1  Moché Lewin 
+      1  Moataz Hijazi 
+      1   Miguel Fortín Magaña 
+      1   Merkel 
+      1  Menachem Begin 
+      1  Mavi/NC 
+      1  Matthias Fekl 
+      1  Massinissa Selmani 
+      1   Massaoudou 
+      1  Martin Richard 
+      1   Markus Kaim 
+      1  Marafa Hamidou Yaya 
+      1   Mamoudou Wane 
+      1  Malam Fatori 
+      1  Malala Yousafzai 
+      1  Mahmoud Abbas 
+      1  Magyar Nemzet 
+      1  Macky Sall 
+      1   Maamoun Abdelkarim 
+      1   Luther 
+      1   Luis Martinez 
+      1   Loretta Lynch 
+      1  L’ Observateur 
+      1   Ledio/ET 
+      1   Lechi Bogatyrov 
+      1  Lamia Al-Gailani 
+      1   Khalifa Haftar 
+      1   Kerry 
+      1   Kadhafi 
+      1   Kader/ET 
+      1   Joseph Kony 
+      1   Josef Schuster 
+      1   José Enrique Castillo Barrantes 
+      1   John Boehner 
+      1   Joe Biden 
+      1   Jérémie/NC 
+      1   Jean-Pierre Fabre 
+      1   Jean-Herman Guay 
+      1  James Foley 
+      1  Jair Melchior 
+      1   Jair Melchior 
+      1   Jacqueline Moudeïna 
+      1  Jacob Zuma 
+      1  Jabal Moukabber 
+      1   Issoufou 
+      1   Ismail/NC 
+      1   Isak Bingöl 
+      1  Isabelle Coixet 
+      1  Isabel Coixet 
+      1  Isaac Herzog 
+      1   Isaac Herzog 
+      1  Irina Bokova 
+      1  Ignatius Kaigama 
+      1  Idriss Déby 
+      1   Ibrahim Wanda 
+      1   Ibrahima Khaliloulah Ndiaye 
+      1   Ibrahim Ag Inawalen 
+      1   Ibn Battûta 
+      1   Human Rights Watch 
+      1  Human 
+      1  Hissène 
+      1  Hisham/NC Aidi/NC 
+      1  Hisham Aidi 
+      1  Hervé Gourdel 
+      1   Helle Thoming-Schmidt 
+      1   Hélène/NC 
+      1  Hawa/NC 
+      1   Hassoumi Massaoudou 
+      1   Hassan Hassan 
+      1   Haneen Zoabi 
+      1   Haj Amin Al-Husseini 
+      1   Hagaï Amir 
+      1   Guy Brice Parfait Kolélas 
+      1  Grozny 
+      1   Gouri Abdelmalek 
+      1  Goukouni Oueddeï 
+      1   Goukouni/NC 
+      1  Godefroid Niyombare 
+      1    Godefroid_Niyombare 
+      1   Godefroid/ET 
+      1   Gnassingbé Eyadema 
+      1  Ginette Ngarbaye 
+      1   Ginette Ngarbaye 
+      1   Gideon Levy 
+      1  George W 
+      1   Georges Vandenbeusch 
+      1  George Orwell 
+      1  Geert Wilders 
+      1   Gberdao Gustave Kam 
+      1  Garance/NC 
+      1   Gabriel Amisi 
+      1   Frédéric Bintsamou 
+      1  Frank-Walter Steinmeier 
+      1  François-Xavier Fauvelle 
+      1  François Hollande 
+      1  Françoise Claustre 
+      1   Faure Essozimna Gnassingbé 
+      1   Fatou Bensouda 
+      1   Fan Jinghui 
+      1   Fahd 
+      1   Euzhan Palcy 
+      1   Erna Solberg 
+      1   Eric Attal 
+      1   Eric 
+      1   Emily Pierce 
+      1   Elie Wiesel 
+      1   Elçi 
+      1   Ehoud Olmert 
+      1  Ebrima Manneh 
+      1  Dylann Roof 
+      1   Dot Scott 
+      1   Dlamini Zuma 
+      1  Djokhar Tsarnaev 
+      1   Djokhar/NC 
+      1   Dire Dawa 
+      1   Die Ambassadeur 
+      1   Diane Feinstein 
+      1  Denis Sassou-Nguesso 
+      1   Debbie Pills 
+      1  Dawda Jawara 
+      1   Davutoglu 
+      1  David Cameron 
+      1  Dara Sinjari 
+      1  Daniel Buren 
+      1   Damantang Albert Camara 
+      1   Daily Trust 
+      1  Dagens/NC 
+      1   Coetzee 
+      1  Cobra Matata 
+      1   Clinton 
+      1   Clément/NC 
+      1   Clementa Pinckney 
+      1   Clément Abaïfouta 
+      1   Christian Thibon 
+      1   Chris Olukolade 
+      1  Chris Okulade 
+      1  Chris Hani 
+      1   Chris Hani 
+      1   Chris Antoine Walembaud 
+      1  Chokri Belaid 
+      1  Chhatrappi Shivaji 
+      1  Charlie Heddo 
+      1   Charlie Hebdo 
+      1  Charlie Chaplin 
+      1   Charles Michel 
+      1   Catherine David 
+      1   Buyoya 
+      1   Brink 
+      1   Brice Sana 
+      1  Bourj El-Barajneh 
+      1   Boumédiène 
+      1  Boko/NC 
+      1  Boko Haram L’ 
+      1   Boko/DET Haram 
+      1   Bob Marley 
+      1   Bill/NC 
+      1  Bill Clinton 
+      1   Bill Clinton 
+      1   Bill 
+      1   Bernard Kolélas 
+      1   Bentzi Sau 
+      1   Benjamin Nétanyahou 
+      1  Beni Sheikh 
+      1  Ben Ali 
+      1   Beji Caid Essebsi 
+      1  Beit Sahem 
+      1  Beit Fourik 
+      1  Beit El 
+      1   Batta Films/NC 
+      1  Barack Obama 
+      1   Bachar Al-Assad 
+      1   Babacar Gaye 
+      1  Ayman Al-Zaouahiri 
+      1   Awwal Musa Bashir 
+      1  Augusto Pinochet 
+      1   Ashanti Goldfields Kilo 
+      1   Arturo Hernandez Cardona 
+      1  Anton Lundin-Pettersson 
+      1   Ansar Al-Charia 
+      1   Anne Hidalgo 
+      1   AngloGold Ashanti 
+      1   Angèle Diabang 
+      1   Angela Merkel 
+      1   Angela/ET 
+      1   Andrew Noakes 
+      1   Amnesty International 
+      1   Amine Labter 
+      1   Amazigh Kateb 
+      1  Alpha Condé/NC 
+      1   Alpha Condé 
+      1   Aloke Chakravarty 
+      1   Allah/NC 
+      1   Alioune Badara Fall/NC 
+      1   Ali Modu Sheriff 
+      1   Ali Haïdar 
+      1   Ali Dilem 
+      1   Alexis Tsipras 
+      1  Al-Chabab Al-Moudjahidine 
+      1   Aknaf Beit Al-Maqdess 
+      1   Aimé Adi 
+      1   Ailet Litan 
+      1   Ahmed Umar Abou Oubaïda 
+      1  Ahmed Oumar Dirieh 
+      1   Ahmadou Kourouma 
+      1   Ahmad Majdalani 
+      1   Africaines Extraordinaires 
+      1  Adolf Hitler 
+      1  Adnen Hellali 
+      1   Adnen Hellali 
+      1   Adel Al-Joubeir 
+      1  Abou Mazen 
+      1  Abou Bakr_Al-Baghdadi 
+      1  Abou Bakr Al-Baghdadi 
+      1   Abou Bakr Al-Baghdadi 
+      1   Aboubakar Shekau 
+      1   Aboubacar Sylla 
+      1   Abdullah Öcalan/NC 
+      1   Abdullahi Yusuf Ahmed 
+      1   Abd Rabbo Mansour Hadi 
+      1   Abdourahman Waberi 
+      1  Abdoulaye Wade 
+      1   Abdoulaye Wade 
+      1   Abdoulaye Bathily 
+      1   Abd Mansour Hadi 
+      1   Abdirahim Mohammed Abdoullahi 
+      1   Abdel Rahman Yassin 
+      1   Abdelmalek 
+      1   Abdallah II 
+      1   Abarca 
+------------------------
+VERBES
+------------------------
+      3 avoir libéré 
+      2 être tué 
+      2 être représenté 
+      2 avoir versé 
+      2 avoir été envoyés 
+      2 avoir créé 
+      2 avoir converti 
+      2 avoir arrêté 
+      1 être votée 
+      1 être vérifiée 
+      1 être vérifié 
+      1 être transformés 
+      1 être transférés 
+      1 être transférée 
+      1 être traduit 
+      1 être touché 
+      1 être tenu 
+      1 être tenté 
+      1 être secoué 
+      1 être resté 
+      1 être repoussés 
+      1 être renforcé 
+      1 être remis 
+      1 être reconnu 
+      1 être prises 
+      1 être présentés 
+      1 être poursuivi 
+      1 être porté 
+      1 être perçu 
+      1 être né 
+      1 être muni 
+      1 être menée 
+      1 être mêlés 
+      1 être mêlé 
+      1 être liée 
+      1 être jugé 
+      1 être investi 
+      1 être interrogés 
+      1 être interdit 
+      1 être inquiétés 
+      1 être inquiétée 
+      1 être impliqué 
+      1 être fournie 
+      1 être focalisé 
+      1 être évincé 
+      1 être entré 
+      1 être enfermé 
+      1 être élue conseillère régionale 
+      1 être éclairée 
+      1 être dû 
+      1 être distribuées 
+      1 être découragés 
+      1 être décodée 
+      1 être contournées 
+      1 être contesté 
+      1 être consacrée 
+      1 être confondus 
+      1 être conduits 
+      1 être compromise 
+      1 être comprise 
+      1 être arrivé 
+      1 être arrêter 
+      1 être arrêté 
+      1 être allés 
+      1 être aimés 
+      1 être accusé 
+      1 être accueillie 
+      1 être accompagnée 
+      1 avoir voulu 
+      1 avoir tué 
+      1 avoir travaillé 
+      1 avoir révélé 
+      1 avoir rapporté 
+      1 avoir publié 
+      1 avoir pu 
+      1 avoir proclamé 
+      1 avoir posé 
+      1 avoir perpétré 
+      1 avoir permis 
+      1 avoir perdu 
+      1 avoir payé 
+      1 avoir pas pris 
+      1 avoir oublié 
+      1 avoir organisé 
+      1 avoir ordonné 
+      1 avoir mis_fin 
+      1 avoir mené 
+      1 avoir lu 
+      1 avoir intercepté 
+      1 avoir incité 
+      1 avoir fini 
+      1 avoir fait 
+      1 avoir exhorté 
+      1 avoir évalué 
+      1 avoir eu 
+      1 avoir été violées 
+      1 avoir été mariées 
+      1 avoir été informé 
+      1 avoir « été enlevé 
+      1 avoir été emprisonnées 
+      1 avoir été détenues 
+      1 avoir été désigné 
+      1 avoir été conçue 
+      1 avoir été battu 
+      1 avoir dit 
+      1 avoir dirigé 
+      1 avoir décapité 
+      1 avoir critiqué 
+      1 avoir consommé 
+      1 avoir conservé 
+      1 avoir connu 
+      1 avoir confirmé 
+      1 avoir commis 
+      1 avoir combattu 
+      1 avoir atteint 
+      1 avoir attaqué 
+      1 avoir adopté 
+      1 avoir accordé 

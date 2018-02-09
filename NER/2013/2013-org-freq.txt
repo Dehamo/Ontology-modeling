@@ -1,0 +1,140 @@
+------------------------
+ORGANISATIONS
+------------------------
+     15  FBI 
+     14  ONU 
+     10  AFP 
+      8  Parti 
+      6  Monde 
+      6  CIA 
+      5  OTAN 
+      5  MI5 
+      5  Cour suprême 
+      4  Union africaine 
+      4  OSDH 
+      4  Nations unies 
+      4  Confédération 
+      3   TTP 
+      3   TSSL 
+      3   RCA 
+      3  Mouvement 
+      3  Conseil 
+      3  Bundestag 
+      2   TPIY 
+      2  Sénat 
+      2  RPDC 
+      2  Organisation 
+      2  ONG 
+      2  Observatoire syrien 
+      2  Mission internationale 
+      2  Mission 
+      2  Maghreb islamique 
+      2  LAPD 
+      2   HRW 
+      2  Communauté croate 
+      2  CIDH 
+      2  Assemblée 
+      1  ZEC 
+      1  ZANU-PF 
+      1  Yonhap 
+      1  World 
+      1  Washington Post 
+      1  Union européenne présents 
+      1  Union européenne 
+      1   UMP 
+      1  TTP 
+      1  TSA 
+      1  Tribunal pénal international 
+      1   TPP 
+      1  TPIY 
+      1  The 
+      1  Tehreek-e-taliban Pakistan 
+      1   SRS 
+      1  Secret Service 
+      1   Sangaris 
+      1  RUSI 
+      1   RSF 
+      1   RPDC 
+      1  Royal 
+      1  RCA 
+      1  Radio France Internationale 
+      1  Radio France internationale 
+      1  PML-N 
+      1  PK0 
+      1  Patriot' 
+      1  Parti républicain 
+      1  Parti communiste turc 
+      1   Parti communiste 
+      1   Pakistan_Muslim_League-Nawaz 
+      1   Pakistan 
+      1  Organisation armée secrète 
+      1  Open Society 
+      1  ONG Human 
+      1  OMBRE 
+      1  OEA 
+      1   Muttahida_Qaumi_Movement 
+      1  MS-13 
+      1  Mouvement national 
+      1  Mouvement islamique 
+      1   MOMA 
+      1  Misca 
+      1  MDC 
+      1  Matin 
+      1  M-18 
+      1   LURD 
+      1   Los 
+      1   Le Monde 
+      1   LAPD 
+      1  Journal 
+      1  ISLAM 
+      1  Institut 
+      1   IBC 
+      1  Human 
+      1  HRW 
+      1  GPRA 
+      1   Genève 2 
+      1  Frankfurter 
+      1  Fonds monétaire international 
+      1   FLN 
+      1  Figaro 
+      1   Fédération_croato-musulmane 
+      1  Fédération 
+      1  ESPRIT 
+      1   EMG 
+      1  EILL 
+      1  EIIL 
+      1   EIIL 
+      1   Disk 
+      1  DGSE 
+      1   Daily 
+      1  Croix-Rouge internationale 
+      1  Croix-Rouge centrafricaine 
+      1  Cour suprême empiète 
+      1  Cour interaméricaine 
+      1  Conseil provincial 
+      1  Conseil national 
+      1   CONFESSIONNELLE 
+      1  Commission générale 
+      1  Commission électorale 
+      1  Comité international 
+      1  Comité 
+      1  COBR 
+      1  Centre pénitentiaire 
+      1  Centre 
+      1  Cavaliere 
+      1  Bureau 
+      1  BIJ 
+      1  Banque centrale 
+      1  Association mexicaine 
+      1  Association 
+      1  Assemblée nationale 
+      1  Assemblée générale 
+      1   AP 
+      1  Al-Qaida 
+      1  ALN 
+      1   ALN 
+      1  AKP 
+      1  AIDE 
+      1  Ahle 
+      1  Agence internationale 
+      1  Académie diplomatique 

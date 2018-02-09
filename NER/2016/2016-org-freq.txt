@@ -1,0 +1,175 @@
+------------------------
+ORGANISATIONS
+------------------------
+     18  ONU 
+     16   ONU 
+     11  EI 
+      8  Parti 
+      7  Monde 
+      6  Union africaine 
+      6  Nations unies 
+      6  FBI 
+      5  Wall 
+      5  MSF 
+      5   HRW 
+      5  DDS 
+      4  ONG 
+      4  Mouvement 
+      4  Médecins 
+      4  Le Monde 
+      4  Human Rights Watch 
+      4  HRW 
+      4  Conseil 
+      4   AFP 
+      3  Union européenne 
+      3  Tribunal pénal international 
+      3  RDC 
+      3  Maghreb islamique 
+      3  HDP 
+      3  Force multinationale mixte 
+      3  Cour pénale internationale 
+      3  Banque mondiale 
+      3  Assemblée nationale 
+      3  AFP 
+      2   Wall Street 
+      2   Wall 
+      2  Unicef 
+      2   The 
+      2  TF1 
+      2  SOS 
+      2  SAESSECAM 
+      2   RDC 
+      2  Parti démocrate 
+      2  Parlement européen 
+      2  Organisation 
+      2   ONG 
+      2   OCDE 
+      2  Observatoire syrien 
+      2   NRA 
+      2   MSF 
+      2  MLC 
+      2   Joaquin 
+      2  Institut 
+      2   ICG 
+      2   Human Rights Watch 
+      2   EI 
+      2  Direction générale 
+      2  DGSE 
+      2  Comité international 
+      2  Centre 
+      2   CAE 
+      2  Bataillon 
+      2  Banque centrale 
+      2   AVCRP 
+      2   ASL 
+      2  Agence 
+      1   Washington Post 
+      1  Vatan-e-Emrooz 
+      1  Université 
+      1  Trésor tchadien 
+      1  Trésor 
+      1  The 
+      1   Terreur 
+      1  Syrian 
+      1   Sécurité 
+      1  SEC 
+      1   SBU 
+      1  RTL 
+      1  RSP 
+      1   RSP 
+      1   Rolling 
+      1  Repubblica 
+      1  Radio 
+      1   President’ 
+      1   PNAS 
+      1  Parti républicain 
+      1  Parti islamique 
+      1  Parlement 
+      1  Organisation mondiale 
+      1  opérations 
+      1   OMS 
+      1  NRA 
+      1  NIA 
+      1   Nature 
+      1  Nations 
+      1   National_Rifle_Association 
+      1  MSF France 
+      1  Mouvement ivoirien 
+      1  Mouvement exogène 
+      1  Mission 
+      1   Los 
+      1   Libération 
+      1   LGBT 
+      1   Le monde 
+      1  Kousseri 
+      1  KMT 
+      1  King’ 
+      1  JongAng 
+      1   Javan 
+      1   International 
+      1  Institut Pasteur 
+      1  Institut national 
+      1  Institut français 
+      1  ICG 
+      1   Hürriyet 
+      1   Human 
+      1  Hezbollah 
+      1  Haut Conseil 
+      1  FSB 
+      1   FSB 
+      1  France 2 
+      1  Force multinationale 
+      1  Force mixte multinationale 
+      1  Force 
+      1  Food 
+      1  Fonds 
+      1  Fondation 
+      1  FN 
+      1   FIPA 
+      1  Figaro 
+      1  Fédération internationale 
+      1  Fédération 
+      1   EI_s’ 
+      1  Ecole normale supérieure 
+      1   Donald 
+      1   Direction_générale_de_la_recherche_extérieure 
+      1  Die Welt 
+      1   Die 
+      1  Debjam Comedy 
+      1  Davao 
+      1    Daech_casse-toi 
+      1   Cumhuriyet 
+      1  Cour suprême ivoirienne 
+      1  Cour internationale 
+      1  Cour 
+      1  Commission européenne 
+      1  Commission 
+      1  Commissariat 
+      1   Commissariat 
+      1  Combating Terrorism 
+      1   CNRS 
+      1  Club 
+      1  Camerounais 
+      1   Burkinabé 
+      1  BJP 
+      1   BJP 
+      1  BIR 
+      1  Bible 
+      1  Bavière 
+      1  AVCRP 
+      1   AQPA 
+      1  AQMI 
+      1   AQMI 
+      1   AOAV 
+      1  Anatolie 
+      1   Al-Naba 
+      1  Agence nationale 
+      1  Agence internationale 
+      1  Agence française 
+      1  AFD 
+      1   ADN 
+      1   ADF 
+      1  Académie 
+      1   Aboubakar 
+      1   AB 
+      1    
